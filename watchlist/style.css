@@ -69,6 +69,9 @@ main {
   padding: 0 1rem 3rem;
 }
 
+.add-form[hidden] {
+  display: none;
+}
 .add-form {
   display: flex;
   gap: 0.5rem;
@@ -166,6 +169,9 @@ main {
   align-items: center;
   justify-content: center;
   padding: 1rem;
+}
+.modal[hidden] {
+  display: none;
 }
 .modal-content {
   background: white;
