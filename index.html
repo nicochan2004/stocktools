@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Stocktools</title>
+<style>
+  :root {
+    --bg: #f3f6fb;
+    --accent: #2f6fed;
+    --ink: #2a2a2a;
+    --line: #d7e0ee;
+    --card: #ffffff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: "Hiragino Sans", "Yu Gothic", "Meiryo", sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    min-height: 100vh;
+  }
+  header {
+    text-align: center;
+    padding: 2rem 1rem 1rem;
+  }
+  header h1 { margin: 0; font-size: 1.8rem; }
+  header p { color: #888; margin-top: 0.4rem; }
+  main {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 0 1rem 2rem;
+    display: grid;
+    gap: 1rem;
+  }
+  a.card {
+    display: block;
+    background: var(--card);
+    border: 2px solid var(--line);
+    border-radius: 14px;
+    padding: 1.2rem 1.4rem;
+    text-decoration: none;
+    color: var(--ink);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  }
+  a.card:hover { border-color: var(--accent); }
+  a.card h2 { margin: 0 0 0.3rem; font-size: 1.2rem; }
+  a.card p { margin: 0; color: #888; font-size: 0.9rem; }
+  footer {
+    text-align: center;
+    font-size: 0.75rem;
+    color: #aaa;
+    padding: 1rem;
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1>📈 Stocktools</h1>
+    <p>使いたいツールを選んでください</p>
+  </header>
+  <main>
+    <a class="card" href="watchlist/">
+      <h2>👀 ウォッチリスト</h2>
+      <p>監視銘柄のGC/DC接近・各種指標をグラフで確認</p>
+    </a>
+  </main>
+  <footer>株価データ: Yahoo Finance（yfinance経由）</footer>
+</body>
+</html>

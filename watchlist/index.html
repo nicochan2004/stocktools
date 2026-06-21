@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ウォッチリスト | Stocktools</title>
+<link rel="stylesheet" href="style.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-yaml@4/dist/js-yaml.min.js"></script>
+</head>
+<body>
+  <header>
+    <a class="back" href="../">← Stocktools</a>
+    <h1>👀 ウォッチリスト</h1>
+    <p class="updated" id="updatedAt">読み込み中…</p>
+    <button id="settingsBtn" class="ghost-btn">⚙️ 設定</button>
+  </header>
+
+  <main>
+    <section class="add-form" id="addForm" hidden>
+      <input id="codeInput" placeholder="銘柄コード（例: 7203）" maxlength="4" inputmode="numeric">
+      <input id="nameInput" placeholder="銘柄名（任意、空欄なら自動取得）">
+      <button id="addBtn">追加</button>
+    </section>
+    <p id="addStatus" class="status"></p>
+    <p id="readonlyNotice" class="notice">
+      閲覧のみモードです。銘柄の追加・削除をするには「設定」からGitHubトークンを登録してください。
+    </p>
+
+    <div id="cards" class="cards"></div>
+  </main>
+
+  <div id="settingsModal" class="modal" hidden>
+    <div class="modal-content">
+      <h2>設定</h2>
+      <p>
+        銘柄の追加・削除をするには、対象リポジトリへの write 権限を持つ
+        GitHub Personal Access Token を入力してください。ブラウザの localStorage にのみ保存され、
+        サーバーには送信されません。
+      </p>
+      <input id="tokenInput" type="password" placeholder="ghp_...">
+      <div class="modal-actions">
+        <button id="saveTokenBtn">保存</button>
+        <button id="clearTokenBtn" class="ghost-btn">削除</button>
+        <button id="closeModalBtn" class="ghost-btn">閉じる</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="toast" class="toast" hidden></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
