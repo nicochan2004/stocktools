@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T06:57:12.494172+00:00",
+  "generated_at": "2026-07-14T09:02:18.737162+00:00",
   "stocks": [
     {
       "code": "9107",
@@ -2644,11 +2644,11 @@
       ],
       "fundamentals": {
         "name": "ソフトバンク",
-        "per": 19.423246,
-        "forward_per": 18.88697,
-        "pbr": 3.5376062,
+        "per": 19.414373,
+        "forward_per": 18.878344,
+        "pbr": 3.5359902,
         "dividend_yield": 4.1,
-        "market_cap": 10469755584512.0,
+        "market_cap": 10464973029376.0,
         "eps": 11.27,
         "roe": 0.16267,
         "week52_high": 247.9,
@@ -15034,12 +15034,12 @@
       ],
       "fundamentals": {
         "name": "東ソー",
-        "per": 20.499735,
+        "per": 20.48425,
         "forward_per": 12.279231,
         "pbr": 1.0036708,
         "dividend_yield": 3.72,
         "market_cap": 834845278208.0,
-        "eps": 132.27,
+        "eps": 132.37,
         "roe": 0.06306,
         "week52_high": 3086.0,
         "week52_low": 2139.5,
@@ -20352,12 +20352,12 @@
       ],
       "fundamentals": {
         "name": "アルプスアルパイン",
-        "per": 15.615951,
-        "forward_per": 19.652369,
-        "pbr": 0.91686195,
+        "per": 15.621754,
+        "forward_per": 19.675732,
+        "pbr": 0.91795194,
         "dividend_yield": 3.09,
-        "market_cap": 410326007808.0,
-        "eps": 134.67,
+        "market_cap": 410813792256.0,
+        "eps": 134.78,
         "roe": 0.06311,
         "week52_high": 2395.5,
         "week52_low": 1467.0,
@@ -23013,11 +23013,11 @@
         "pbr": 1.0619801,
         "dividend_yield": 2.73,
         "market_cap": 19279857664.0,
-        "eps": 39.27,
-        "roe": 0.06059,
+        "eps": null,
+        "roe": null,
         "week52_high": 1012.0,
         "week52_low": 511.0,
-        "avg_volume": 85786.0
+        "avg_volume": null
       },
       "signals": []
     },
@@ -23891,16 +23891,16 @@
       ],
       "fundamentals": {
         "name": "アドバンテス",
-        "per": 55.691246,
-        "forward_per": 120.85139,
-        "pbr": 26.19503,
+        "per": 55.63309,
+        "forward_per": 120.7252,
+        "pbr": 26.167677,
         "dividend_yield": 0.21,
-        "market_cap": 20823897276416.0,
-        "eps": 515.88,
-        "roe": 0.57646,
+        "market_cap": 20802154004480.0,
+        "eps": null,
+        "roe": null,
         "week52_high": 35940.0,
         "week52_low": 9744.0,
-        "avg_volume": 9334238.0
+        "avg_volume": null
       },
       "signals": []
     },
