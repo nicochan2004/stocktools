@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T09:22:08.206795+00:00",
+  "generated_at": "2026-07-20T03:25:48.598613+00:00",
   "stocks": [
     {
       "code": "9107",
@@ -871,16 +871,16 @@
       ],
       "fundamentals": {
         "name": "川崎船",
-        "per": 12.943161,
+        "per": 12.9363985,
         "forward_per": 7.794122,
         "pbr": 0.95496035,
-        "dividend_yield": 4.54,
+        "dividend_yield": 4.41,
         "market_cap": 1649552916480.0,
-        "eps": 210.42,
+        "eps": 210.53,
         "roe": 0.07754,
         "week52_high": 2964.5,
         "week52_low": 1995.0,
-        "avg_volume": 4781203.0
+        "avg_volume": 4829980.0
       },
       "signals": []
     },
@@ -1757,13 +1757,13 @@
         "per": 11.97306,
         "forward_per": 10.38488,
         "pbr": 1.2652504,
-        "dividend_yield": 3.58,
+        "dividend_yield": 3.57,
         "market_cap": 12303109980160.0,
         "eps": 12.62,
         "roe": 0.10042,
         "week52_high": 167.2,
         "week52_low": 142.6,
-        "avg_volume": 235630696.0
+        "avg_volume": 237686131.0
       },
       "signals": []
     },
@@ -2640,13 +2640,13 @@
         "per": 19.565216,
         "forward_per": 19.02502,
         "pbr": 3.5634637,
-        "dividend_yield": 4.01,
+        "dividend_yield": 3.99,
         "market_cap": 10546281709568.0,
         "eps": 11.27,
         "roe": 0.16267,
         "week52_high": 247.9,
         "week52_low": 202.6,
-        "avg_volume": 77382626.0
+        "avg_volume": 77522627.0
       },
       "signals": []
     },
@@ -3520,16 +3520,16 @@
       ],
       "fundamentals": {
         "name": "ソフトバンクグループ",
-        "per": 6.2152653,
+        "per": 6.215052,
         "forward_per": 18.368383,
         "pbr": 1.7541294,
-        "dividend_yield": 0.18,
+        "dividend_yield": 0.2,
         "market_cap": 30910961418240.0,
-        "eps": 872.69,
+        "eps": 872.72,
         "roe": 0.32724,
         "week52_high": 9074.0,
-        "week52_low": 2620.0,
-        "avg_volume": 72616406.0
+        "week52_low": 2807.5,
+        "avg_volume": 72982432.0
       },
       "signals": []
     },
@@ -4406,13 +4406,13 @@
         "per": 8.733678,
         "forward_per": 21.069836,
         "pbr": 1.5077182,
-        "dividend_yield": 4.13,
+        "dividend_yield": 4.16,
         "market_cap": 11960726528.0,
         "eps": 162.36,
         "roe": 0.18414,
         "week52_high": 1688.0,
         "week52_low": 1221.0,
-        "avg_volume": 3872.0
+        "avg_volume": 3891.0
       },
       "signals": []
     },
@@ -5286,16 +5286,16 @@
       ],
       "fundamentals": {
         "name": "マツオカ",
-        "per": 9.189072,
+        "per": 9.19107,
         "forward_per": null,
         "pbr": 0.6663104,
-        "dividend_yield": 4.47,
+        "dividend_yield": 4.53,
         "market_cap": 26624038912.0,
-        "eps": 275.98,
+        "eps": 275.92,
         "roe": 0.08096,
         "week52_high": 2730.0,
-        "week52_low": 1820.0,
-        "avg_volume": 35614.0
+        "week52_low": 1823.0,
+        "avg_volume": 35557.0
       },
       "signals": []
     },
@@ -6169,16 +6169,16 @@
       ],
       "fundamentals": {
         "name": "ビジョナル",
-        "per": 19.675707,
+        "per": 19.684837,
         "forward_per": 19.61292,
         "pbr": 4.165668,
         "dividend_yield": null,
         "market_cap": 341141159936.0,
-        "eps": 431.09,
+        "eps": 430.89,
         "roe": 0.24264999,
         "week52_high": 12460.0,
         "week52_low": 6280.0,
-        "avg_volume": 300850.0
+        "avg_volume": 301652.0
       },
       "signals": []
     },
@@ -7052,16 +7052,16 @@
       ],
       "fundamentals": {
         "name": "CYBOZU",
-        "per": 16.748253,
+        "per": 16.75044,
         "forward_per": 41.121796,
         "pbr": 6.7683234,
-        "dividend_yield": 1.92,
+        "dividend_yield": 1.95,
         "market_cap": 116403011584.0,
-        "eps": 153.21,
+        "eps": 153.19,
         "roe": 0.50234,
         "week52_high": 4160.0,
         "week52_low": 1948.0,
-        "avg_volume": 510175.0
+        "avg_volume": 495132.0
       },
       "signals": []
     },
@@ -7935,16 +7935,16 @@
       ],
       "fundamentals": {
         "name": "デクセリアルズ",
-        "per": 21.912077,
+        "per": 21.92988,
         "forward_per": 22.936138,
         "pbr": 5.3746967,
-        "dividend_yield": 1.69,
+        "dividend_yield": 1.82,
         "market_cap": 587793104896.0,
-        "eps": 160.14,
+        "eps": 160.01,
         "roe": 0.27289,
         "week52_high": 5228.0,
         "week52_low": 1903.0,
-        "avg_volume": 2560300.0
+        "avg_volume": 2574245.0
       },
       "signals": []
     },
@@ -8818,16 +8818,16 @@
       ],
       "fundamentals": {
         "name": "小田原エン",
-        "per": 5.1805024,
+        "per": 5.1787124,
         "forward_per": 11.346674,
         "pbr": 0.6513932,
         "dividend_yield": 3.34,
         "market_cap": 12003874816.0,
-        "eps": 404.98,
+        "eps": 405.12,
         "roe": 0.15281,
         "week52_high": 2950.0,
         "week52_low": 1835.0,
-        "avg_volume": 16062.0
+        "avg_volume": 16629.0
       },
       "signals": [
         {
@@ -9708,16 +9708,16 @@
       ],
       "fundamentals": {
         "name": "浜松ホトニク",
-        "per": 50.526775,
+        "per": 50.504604,
         "forward_per": 27.294287,
         "pbr": 2.0857458,
-        "dividend_yield": 1.58,
+        "dividend_yield": 1.65,
         "market_cap": 665486426112.0,
-        "eps": 45.56,
+        "eps": 45.58,
         "roe": 0.0427,
         "week52_high": 3100.0,
         "week52_low": 1475.0,
-        "avg_volume": 4507211.0
+        "avg_volume": 4550347.0
       },
       "signals": []
     },
@@ -10591,16 +10591,16 @@
       ],
       "fundamentals": {
         "name": "サンリオ",
-        "per": 26.904177,
+        "per": 26.95234,
         "forward_per": 9.18274,
-        "pbr": 9.374415,
-        "dividend_yield": 1.32,
+        "pbr": 9.374563,
+        "dividend_yield": 1.33,
         "market_cap": 1460372242432.0,
-        "eps": 44.77,
+        "eps": 44.69,
         "roe": 0.41667998,
         "week52_high": 1737.0,
         "week52_low": 818.8,
-        "avg_volume": 28269580.0
+        "avg_volume": 28450896.0
       },
       "signals": []
     },
@@ -11474,16 +11474,16 @@
       ],
       "fundamentals": {
         "name": "オープンアップG",
-        "per": 13.080556,
+        "per": 13.071981,
         "forward_per": 13.025019,
         "pbr": 2.1735103,
-        "dividend_yield": 4.31,
+        "dividend_yield": 4.26,
         "market_cap": 169383886848.0,
-        "eps": 152.44,
+        "eps": 152.54,
         "roe": 0.17715,
         "week52_high": 2011.0,
         "week52_low": 1632.0,
-        "avg_volume": 213301.0
+        "avg_volume": 213404.0
       },
       "signals": []
     },
@@ -12357,16 +12357,16 @@
       ],
       "fundamentals": {
         "name": "システナ",
-        "per": 13.19861,
+        "per": 13.211125,
         "forward_per": 16.587301,
         "pbr": 3.7720864,
-        "dividend_yield": 4.29,
+        "dividend_yield": 4.31,
         "market_cap": 149416542208.0,
-        "eps": 31.67,
+        "eps": 31.64,
         "roe": 0.30953,
         "week52_high": 555.0,
         "week52_low": 385.0,
-        "avg_volume": 1127018.0
+        "avg_volume": 1118131.0
       },
       "signals": []
     },
@@ -13240,16 +13240,16 @@
       ],
       "fundamentals": {
         "name": "ビーロット",
-        "per": 6.0849257,
+        "per": 6.0864763,
         "forward_per": null,
         "pbr": 1.261848,
-        "dividend_yield": 5.33,
+        "dividend_yield": 5.58,
         "market_cap": 26991611904.0,
-        "eps": 235.5,
+        "eps": 235.44,
         "roe": 0.31712,
         "week52_high": 1917.0,
         "week52_low": 1330.0,
-        "avg_volume": 70000.0
+        "avg_volume": 72739.0
       },
       "signals": [
         {
@@ -14130,16 +14130,16 @@
       ],
       "fundamentals": {
         "name": "シェアリングT",
-        "per": 22.86546,
+        "per": 22.88396,
         "forward_per": 23.410595,
         "pbr": 6.891812,
-        "dividend_yield": 3.74,
+        "dividend_yield": 3.89,
         "market_cap": 33838813184.0,
-        "eps": 61.84,
+        "eps": 61.79,
         "roe": null,
         "week52_high": 1480.0,
         "week52_low": 901.0,
-        "avg_volume": 188091.0
+        "avg_volume": 189678.0
       },
       "signals": []
     },
@@ -15013,16 +15013,16 @@
       ],
       "fundamentals": {
         "name": "東ソー",
-        "per": 20.510498,
+        "per": 20.533756,
         "forward_per": 12.29961,
         "pbr": 1.0053365,
-        "dividend_yield": 3.62,
+        "dividend_yield": 3.68,
         "market_cap": 836230774784.0,
-        "eps": 132.42,
+        "eps": 132.27,
         "roe": 0.06306,
         "week52_high": 3086.0,
         "week52_low": 2139.5,
-        "avg_volume": 1620580.0
+        "avg_volume": 1630311.0
       },
       "signals": []
     },
@@ -15896,16 +15896,16 @@
       ],
       "fundamentals": {
         "name": "信越化",
-        "per": 28.3468,
+        "per": 28.328848,
         "forward_per": 21.705637,
         "pbr": 2.9765272,
-        "dividend_yield": 1.44,
+        "dividend_yield": 1.48,
         "market_cap": 13309835214848.0,
-        "eps": 252.48,
+        "eps": 252.64,
         "roe": 0.106800005,
         "week52_high": 7930.0,
         "week52_low": 4280.0,
-        "avg_volume": 7816622.0
+        "avg_volume": 7801285.0
       },
       "signals": []
     },
@@ -16779,16 +16779,16 @@
       ],
       "fundamentals": {
         "name": "オービック",
-        "per": 24.852932,
+        "per": 24.876116,
         "forward_per": 26.665417,
         "pbr": 3.5833235,
-        "dividend_yield": 2.23,
+        "dividend_yield": 2.2,
         "market_cap": 1838810267648.0,
-        "eps": 171.69,
+        "eps": 171.53,
         "roe": 0.15832,
         "week52_high": 5655.0,
         "week52_low": 3643.0,
-        "avg_volume": 1777255.0
+        "avg_volume": 1780316.0
       },
       "signals": []
     },
@@ -17667,11 +17667,11 @@
         "pbr": 1.9275626,
         "dividend_yield": null,
         "market_cap": 1736995766272.0,
-        "eps": -82.3,
+        "eps": -82.23,
         "roe": -0.05229,
         "week52_high": 1068.5,
         "week52_low": 686.1,
-        "avg_volume": 15380239.0
+        "avg_volume": 15303881.0
       },
       "signals": [
         {
@@ -18552,16 +18552,16 @@
       ],
       "fundamentals": {
         "name": "オハラ",
-        "per": 24.00881,
+        "per": 24.03732,
         "forward_per": 17.25944,
         "pbr": 0.6414955,
-        "dividend_yield": 1.75,
+        "dividend_yield": 1.76,
         "market_cap": 33631690752.0,
-        "eps": 59.02,
+        "eps": 58.95,
         "roe": 0.02954,
         "week52_high": 1744.0,
         "week52_low": 1019.0,
-        "avg_volume": 108906.0
+        "avg_volume": 110018.0
       },
       "signals": []
     },
@@ -19438,13 +19438,13 @@
         "per": 13.140917,
         "forward_per": 14.603773,
         "pbr": 1.2043132,
-        "dividend_yield": 2.76,
+        "dividend_yield": 2.84,
         "market_cap": 22059409408.0,
         "eps": 58.9,
         "roe": 0.1003,
         "week52_high": 1253.0,
         "week52_low": 466.0,
-        "avg_volume": 290273.0
+        "avg_volume": 292055.0
       },
       "signals": []
     },
@@ -20318,16 +20318,16 @@
       ],
       "fundamentals": {
         "name": "アルプスアルパイン",
-        "per": 15.27417,
+        "per": 15.267373,
         "forward_per": 19.236519,
         "pbr": 0.89746094,
-        "dividend_yield": 3.01,
+        "dividend_yield": 3.11,
         "market_cap": 401643405312.0,
-        "eps": 134.77,
+        "eps": 134.83,
         "roe": 0.06311,
         "week52_high": 2395.5,
         "week52_low": 1467.0,
-        "avg_volume": 1850344.0
+        "avg_volume": 1864265.0
       },
       "signals": [
         {
@@ -21208,16 +21208,16 @@
       ],
       "fundamentals": {
         "name": "鈴木",
-        "per": 13.651504,
+        "per": 13.642789,
         "forward_per": 15.095863,
         "pbr": 1.3721441,
-        "dividend_yield": 3.82,
+        "dividend_yield": 4.01,
         "market_cap": 42962976768.0,
-        "eps": 219.17,
+        "eps": 219.31,
         "roe": 0.14161,
         "week52_high": 3510.0,
-        "week52_low": 1751.0,
-        "avg_volume": 71575.0
+        "week52_low": 1770.0,
+        "avg_volume": 72732.0
       },
       "signals": []
     },
@@ -22091,16 +22091,16 @@
       ],
       "fundamentals": {
         "name": "スミダ",
-        "per": 11.810518,
+        "per": 11.806191,
         "forward_per": 8.651007,
         "pbr": 0.67983514,
-        "dividend_yield": 3.98,
+        "dividend_yield": 4.11,
         "market_cap": 42664423424.0,
-        "eps": 109.14,
+        "eps": 109.18,
         "roe": 0.06121,
         "week52_high": 1626.0,
         "week52_low": 952.0,
-        "avg_volume": 306308.0
+        "avg_volume": 311306.0
       },
       "signals": []
     },
@@ -22974,16 +22974,16 @@
       ],
       "fundamentals": {
         "name": "共和電",
-        "per": 19.03308,
+        "per": 19.047619,
         "forward_per": null,
         "pbr": 1.0329794,
-        "dividend_yield": 2.74,
-        "market_cap": 18880743424.0,
-        "eps": 39.3,
+        "dividend_yield": 2.81,
+        "market_cap": 18753359872.0,
+        "eps": 39.27,
         "roe": 0.06059,
         "week52_high": 1012.0,
-        "week52_low": 511.0,
-        "avg_volume": 85291.0
+        "week52_low": 514.0,
+        "avg_volume": 85844.0
       },
       "signals": [
         {
@@ -23864,16 +23864,16 @@
       ],
       "fundamentals": {
         "name": "アドバンテス",
-        "per": 53.33114,
+        "per": 53.476295,
         "forward_per": 115.69849,
         "pbr": 25.078117,
-        "dividend_yield": 0.2,
+        "dividend_yield": 0.22,
         "market_cap": 19912697315328.0,
-        "eps": 515.74,
+        "eps": 514.34,
         "roe": 0.57646,
         "week52_high": 35940.0,
         "week52_low": 9744.0,
-        "avg_volume": 9137059.0
+        "avg_volume": 9193726.0
       },
       "signals": []
     },
@@ -24750,13 +24750,13 @@
         "per": null,
         "forward_per": 52.146393,
         "pbr": 2.3076622,
-        "dividend_yield": 1.0,
+        "dividend_yield": 1.1,
         "market_cap": 1749124907008.0,
-        "eps": -410.42,
+        "eps": -410.51,
         "roe": -0.19219999,
         "week52_high": 6099.0,
         "week52_low": 1855.0,
-        "avg_volume": 5867740.0
+        "avg_volume": 5932500.0
       },
       "signals": []
     },
@@ -25630,16 +25630,16 @@
       ],
       "fundamentals": {
         "name": "トヨタ自",
-        "per": 9.820158,
+        "per": 9.823153,
         "forward_per": 8.943002,
         "pbr": 0.94667786,
-        "dividend_yield": 3.44,
+        "dividend_yield": 3.45,
         "market_cap": 34334971002880.0,
-        "eps": 295.26,
+        "eps": 295.17,
         "roe": 0.10233,
         "week52_high": 4000.0,
         "week52_low": 2471.0,
-        "avg_volume": 27045627.0
+        "avg_volume": 27398545.0
       },
       "signals": []
     },
@@ -26513,16 +26513,16 @@
       ],
       "fundamentals": {
         "name": "ピジョン",
-        "per": 28.348932,
+        "per": 28.329145,
         "forward_per": 28.356853,
         "pbr": 2.9756145,
-        "dividend_yield": 3.77,
+        "dividend_yield": 3.74,
         "market_cap": 242819203072.0,
-        "eps": 71.59,
+        "eps": 71.64,
         "roe": 0.10804,
         "week52_high": 2130.5,
         "week52_low": 1567.0,
-        "avg_volume": 1053598.0
+        "avg_volume": 1055462.0
       },
       "signals": [
         {
@@ -27403,16 +27403,16 @@
       ],
       "fundamentals": {
         "name": "青山財産",
-        "per": 11.247819,
+        "per": 11.2488,
         "forward_per": 11.197985,
         "pbr": 2.676834,
-        "dividend_yield": 5.42,
+        "dividend_yield": 5.43,
         "market_cap": 31015966720.0,
-        "eps": 114.6,
+        "eps": 114.59,
         "roe": 0.27722,
         "week52_high": 2194.0,
         "week52_low": 1185.0,
-        "avg_volume": 92944.0
+        "avg_volume": 93083.0
       },
       "signals": []
     }
