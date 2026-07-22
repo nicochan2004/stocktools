@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T07:42:58.624745+00:00",
+  "generated_at": "2026-07-22T10:07:04.323956+00:00",
   "stocks": [
     {
       "code": "9107",
@@ -22810,7 +22810,7 @@
         "forward_per": null,
         "pbr": 1.063361,
         "dividend_yield": 2.73,
-        "market_cap": 19436060672.0,
+        "market_cap": 19304929280.0,
         "eps": 39.3,
         "roe": 0.06059,
         "week52_high": 1012.0,
