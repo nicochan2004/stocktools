@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T07:42:22.265608+00:00",
+  "generated_at": "2026-07-24T10:00:13.944398+00:00",
   "stocks": [
     {
       "code": "9107",
@@ -5267,7 +5267,7 @@
         "name": "マツオカ",
         "per": 9.024354,
         "forward_per": null,
-        "pbr": 0.65422434,
+        "pbr": 0.65454227,
         "dividend_yield": 4.52,
         "market_cap": 26141110272.0,
         "eps": 275.92,
@@ -22852,7 +22852,7 @@
         "forward_per": null,
         "pbr": 1.067504,
         "dividend_yield": 2.7,
-        "market_cap": 19380142080.0,
+        "market_cap": 19511785472.0,
         "eps": 39.32,
         "roe": 0.06059,
         "week52_high": 1012.0,
