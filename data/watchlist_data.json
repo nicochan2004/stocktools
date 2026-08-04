@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T07:32:28.046752+00:00",
+  "generated_at": "2026-08-04T10:17:38.645094+00:00",
   "stocks": [
     {
       "code": "9107",
@@ -5271,12 +5271,12 @@
       ],
       "fundamentals": {
         "name": "マツオカ",
-        "per": 8.862657,
+        "per": 8.790691,
         "forward_per": null,
         "pbr": 0.6374558,
         "dividend_yield": 4.67,
         "market_cap": 25458712576.0,
-        "eps": 273.62,
+        "eps": 275.86,
         "roe": 0.08096,
         "week52_high": 2730.0,
         "week52_low": 1849.0,
@@ -11417,12 +11417,12 @@
       ],
       "fundamentals": {
         "name": "オープンアップG",
-        "per": 12.976079,
+        "per": 12.737766,
         "forward_per": 12.6853485,
         "pbr": 2.116829,
         "dividend_yield": 4.22,
         "market_cap": 164966662144.0,
-        "eps": 149.66,
+        "eps": 152.46,
         "roe": 0.17715,
         "week52_high": 2106.0,
         "week52_low": 1632.0,
@@ -22864,7 +22864,7 @@
         "forward_per": null,
         "pbr": 1.0978858,
         "dividend_yield": 2.64,
-        "market_cap": 19931711488.0,
+        "market_cap": 20067100672.0,
         "eps": 39.03,
         "roe": 0.06059,
         "week52_high": 1012.0,
