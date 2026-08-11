@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:33:59.105087+00:00",
+  "generated_at": "2026-08-11T07:52:12.970722+00:00",
   "stocks": [
     {
       "code": "9107",
@@ -5273,14 +5273,14 @@
         "name": "マツオカ",
         "per": 8.936401,
         "forward_per": null,
-        "pbr": 0.6482335,
+        "pbr": 0.6476813,
         "dividend_yield": 4.66,
         "market_cap": 25889148928.0,
         "eps": 275.95,
         "roe": 0.08939999,
         "week52_high": 2730.0,
         "week52_low": 1880.0,
-        "avg_volume": 34598.0
+        "avg_volume": 34452.0
       },
       "signals": []
     },
@@ -8784,7 +8784,7 @@
         "roe": 0.15281,
         "week52_high": 2950.0,
         "week52_low": 1835.0,
-        "avg_volume": 16179.0
+        "avg_volume": 16253.0
       },
       "signals": []
     },
@@ -9660,7 +9660,7 @@
         "roe": 0.055180002,
         "week52_high": 3100.0,
         "week52_low": 1475.0,
-        "avg_volume": 4503535.0
+        "avg_volume": 4494649.0
       },
       "signals": [
         {
@@ -14068,7 +14068,7 @@
         "roe": null,
         "week52_high": 1491.0,
         "week52_low": 901.0,
-        "avg_volume": 207614.0
+        "avg_volume": 206324.0
       },
       "signals": [
         {
@@ -14944,7 +14944,7 @@
         "name": "東ソー",
         "per": 20.703333,
         "forward_per": 12.410561,
-        "pbr": 1.0030335,
+        "pbr": 1.0144053,
         "dividend_yield": 3.65,
         "market_cap": 843774099456.0,
         "eps": 132.37,
@@ -19345,7 +19345,7 @@
         "roe": 0.1003,
         "week52_high": 1253.0,
         "week52_low": 466.0,
-        "avg_volume": 204359.0
+        "avg_volume": 206418.0
       },
       "signals": []
     },
@@ -22864,7 +22864,7 @@
         "forward_per": null,
         "pbr": 1.0385033,
         "dividend_yield": 2.79,
-        "market_cap": 18981709824.0,
+        "market_cap": 18853644288.0,
         "eps": 39.25,
         "roe": 0.0538,
         "week52_high": 1012.0,
@@ -23745,7 +23745,7 @@
         "roe": 0.56895,
         "week52_high": 35940.0,
         "week52_low": 10450.0,
-        "avg_volume": 9045751.0
+        "avg_volume": 9040858.0
       },
       "signals": []
     },
