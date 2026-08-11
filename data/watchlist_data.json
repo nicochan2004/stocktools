@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T01:03:48.702899+00:00",
+  "generated_at": "2026-08-11T03:10:29.429903+00:00",
   "stocks": [
     {
       "code": "9107",
@@ -873,7 +873,7 @@
         "roe": 0.07565,
         "week52_high": 2964.5,
         "week52_low": 1995.0,
-        "avg_volume": 4877073.0
+        "avg_volume": 4804506.0
       },
       "signals": []
     },
@@ -1749,7 +1749,7 @@
         "roe": 0.107130006,
         "week52_high": 167.2,
         "week52_low": 142.6,
-        "avg_volume": 251787389.0
+        "avg_volume": 248985443.0
       },
       "signals": [
         {
@@ -2632,7 +2632,7 @@
         "roe": 0.16712,
         "week52_high": 247.9,
         "week52_low": 202.6,
-        "avg_volume": 81458740.0
+        "avg_volume": 81153484.0
       },
       "signals": []
     },
@@ -3508,7 +3508,7 @@
         "roe": 0.31964,
         "week52_high": 9074.0,
         "week52_low": 3365.0,
-        "avg_volume": 63496579.0
+        "avg_volume": 62960306.0
       },
       "signals": [
         {
@@ -4391,7 +4391,7 @@
         "roe": 0.18414,
         "week52_high": 1688.0,
         "week52_low": 1221.0,
-        "avg_volume": 3762.0
+        "avg_volume": 3800.0
       },
       "signals": [
         {
@@ -5273,14 +5273,14 @@
         "name": "マツオカ",
         "per": 8.936401,
         "forward_per": null,
-        "pbr": 0.6482335,
+        "pbr": 0.6476813,
         "dividend_yield": 4.66,
         "market_cap": 25889148928.0,
         "eps": 275.95,
         "roe": 0.08939999,
         "week52_high": 2730.0,
         "week52_low": 1880.0,
-        "avg_volume": 33685.0
+        "avg_volume": 34452.0
       },
       "signals": []
     },
@@ -6156,7 +6156,7 @@
         "roe": 0.24264999,
         "week52_high": 12375.0,
         "week52_low": 6280.0,
-        "avg_volume": 280271.0
+        "avg_volume": 280681.0
       },
       "signals": []
     },
@@ -7032,7 +7032,7 @@
         "roe": 0.50234,
         "week52_high": 4160.0,
         "week52_low": 1948.0,
-        "avg_volume": 436932.0
+        "avg_volume": 430629.0
       },
       "signals": []
     },
@@ -7908,7 +7908,7 @@
         "roe": null,
         "week52_high": 5228.0,
         "week52_low": 1903.0,
-        "avg_volume": 2647954.0
+        "avg_volume": 2631500.0
       },
       "signals": []
     },
@@ -8784,7 +8784,7 @@
         "roe": 0.15281,
         "week52_high": 2950.0,
         "week52_low": 1835.0,
-        "avg_volume": 16059.0
+        "avg_volume": 16253.0
       },
       "signals": []
     },
@@ -9660,7 +9660,7 @@
         "roe": 0.055180002,
         "week52_high": 3100.0,
         "week52_low": 1475.0,
-        "avg_volume": 4511629.0
+        "avg_volume": 4494649.0
       },
       "signals": [
         {
@@ -10543,7 +10543,7 @@
         "roe": 0.41667998,
         "week52_high": 1737.0,
         "week52_low": 818.8,
-        "avg_volume": 27630473.0
+        "avg_volume": 27714678.0
       },
       "signals": []
     },
@@ -11410,16 +11410,16 @@
       ],
       "fundamentals": {
         "name": "オープンアップG",
-        "per": 13.257675,
+        "per": 14.556324,
         "forward_per": 13.2013855,
         "pbr": 2.1400738,
         "dividend_yield": 4.95,
         "market_cap": 171704516608.0,
-        "eps": 152.44,
+        "eps": 138.84,
         "roe": 0.14886,
         "week52_high": 2106.0,
         "week52_low": 1632.0,
-        "avg_volume": 214271.0
+        "avg_volume": 217134.0
       },
       "signals": [
         {
@@ -12302,7 +12302,7 @@
         "roe": 0.31028998,
         "week52_high": 555.0,
         "week52_low": 385.0,
-        "avg_volume": 1190401.0
+        "avg_volume": 1186573.0
       },
       "signals": [
         {
@@ -13185,7 +13185,7 @@
         "roe": 0.31712,
         "week52_high": 1917.0,
         "week52_low": 1330.0,
-        "avg_volume": 71268.0
+        "avg_volume": 71584.0
       },
       "signals": [
         {
@@ -14068,7 +14068,7 @@
         "roe": null,
         "week52_high": 1491.0,
         "week52_low": 901.0,
-        "avg_volume": 201693.0
+        "avg_volume": 206324.0
       },
       "signals": [
         {
@@ -14944,14 +14944,14 @@
         "name": "東ソー",
         "per": 20.703333,
         "forward_per": 12.410561,
-        "pbr": 1.0030335,
+        "pbr": 1.0144053,
         "dividend_yield": 3.65,
         "market_cap": 843774099456.0,
         "eps": 132.37,
         "roe": null,
         "week52_high": 3086.0,
         "week52_low": 2139.5,
-        "avg_volume": 1573828.0
+        "avg_volume": 1559231.0
       },
       "signals": [
         {
@@ -15834,7 +15834,7 @@
         "roe": 0.112320006,
         "week52_high": 7930.0,
         "week52_low": 4366.0,
-        "avg_volume": 7939050.0
+        "avg_volume": 7907025.0
       },
       "signals": []
     },
@@ -16710,7 +16710,7 @@
         "roe": 0.16645999,
         "week52_high": 5546.0,
         "week52_low": 3643.0,
-        "avg_volume": 1729495.0
+        "avg_volume": 1725562.0
       },
       "signals": []
     },
@@ -17586,7 +17586,7 @@
         "roe": -0.05229,
         "week52_high": 1068.5,
         "week52_low": 686.1,
-        "avg_volume": 15431196.0
+        "avg_volume": 15541753.0
       },
       "signals": []
     },
@@ -18453,16 +18453,16 @@
       ],
       "fundamentals": {
         "name": "オハラ",
-        "per": 26.739058,
+        "per": 26.689247,
         "forward_per": 19.196102,
         "pbr": 0.713477,
         "dividend_yield": 1.59,
         "market_cap": 37405466624.0,
-        "eps": 58.94,
+        "eps": 59.05,
         "roe": 0.02954,
         "week52_high": 1744.0,
         "week52_low": 1019.0,
-        "avg_volume": 107737.0
+        "avg_volume": 107046.0
       },
       "signals": [
         {
@@ -19345,7 +19345,7 @@
         "roe": 0.1003,
         "week52_high": 1253.0,
         "week52_low": 466.0,
-        "avg_volume": 202798.0
+        "avg_volume": 206418.0
       },
       "signals": []
     },
@@ -20221,7 +20221,7 @@
         "roe": 0.06243,
         "week52_high": 2395.5,
         "week52_low": 1629.0,
-        "avg_volume": 1832279.0
+        "avg_volume": 1793562.0
       },
       "signals": [
         {
@@ -21110,7 +21110,7 @@
         "roe": 0.14161,
         "week52_high": 3510.0,
         "week52_low": 1919.0,
-        "avg_volume": 70671.0
+        "avg_volume": 71503.0
       },
       "signals": [
         {
@@ -21993,7 +21993,7 @@
         "roe": 0.03578,
         "week52_high": 1626.0,
         "week52_low": 1021.0,
-        "avg_volume": 309059.0
+        "avg_volume": 310529.0
       },
       "signals": []
     },
@@ -22864,12 +22864,12 @@
         "forward_per": null,
         "pbr": 1.0385033,
         "dividend_yield": 2.79,
-        "market_cap": 18981709824.0,
+        "market_cap": 18853644288.0,
         "eps": 39.25,
         "roe": 0.0538,
         "week52_high": 1012.0,
         "week52_low": 636.0,
-        "avg_volume": 81659.0
+        "avg_volume": 81059.0
       },
       "signals": []
     },
@@ -23745,7 +23745,7 @@
         "roe": 0.56895,
         "week52_high": 35940.0,
         "week52_low": 10450.0,
-        "avg_volume": 9070670.0
+        "avg_volume": 9040858.0
       },
       "signals": []
     },
@@ -24621,7 +24621,7 @@
         "roe": null,
         "week52_high": 6099.0,
         "week52_low": 1950.0,
-        "avg_volume": 5786946.0
+        "avg_volume": 5730746.0
       },
       "signals": [
         {
@@ -25495,16 +25495,16 @@
       ],
       "fundamentals": {
         "name": "トヨタ自",
-        "per": 8.484659,
+        "per": 8.481762,
         "forward_per": 9.194374,
         "pbr": 0.9461702,
         "dividend_yield": 3.35,
         "market_cap": 35298176139264.0,
-        "eps": 351.34,
+        "eps": 351.46,
         "roe": 0.12404,
         "week52_high": 4000.0,
         "week52_low": 2686.0,
-        "avg_volume": 30354176.0
+        "avg_volume": 30048729.0
       },
       "signals": [
         {
@@ -26393,7 +26393,7 @@
         "roe": 0.111990005,
         "week52_high": 2130.5,
         "week52_low": 1567.0,
-        "avg_volume": 1073471.0
+        "avg_volume": 1072076.0
       },
       "signals": [
         {
@@ -27276,7 +27276,7 @@
         "roe": 0.23008,
         "week52_high": 2194.0,
         "week52_low": 1185.0,
-        "avg_volume": 82475.0
+        "avg_volume": 85270.0
       },
       "signals": []
     }
