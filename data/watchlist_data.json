@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T06:54:07.654666+00:00",
+  "generated_at": "2026-08-13T08:12:40.307158+00:00",
   "stocks": [
     {
       "code": "9107",
@@ -1743,7 +1743,7 @@
         "per": 12.727994,
         "forward_per": 11.030928,
         "pbr": 1.3256794,
-        "dividend_yield": 3.41,
+        "dividend_yield": 3.38,
         "market_cap": 13033083502592.0,
         "eps": 12.61,
         "roe": 0.107130006,
@@ -2625,7 +2625,7 @@
         "roe": 0.16712,
         "week52_high": 247.9,
         "week52_low": 202.6,
-        "avg_volume": 80203642.0
+        "avg_volume": 80396484.0
       },
       "signals": []
     },
@@ -3501,7 +3501,7 @@
         "roe": 0.31964,
         "week52_high": 9074.0,
         "week52_low": 3365.0,
-        "avg_volume": 62394093.0
+        "avg_volume": 62144193.0
       },
       "signals": [
         {
@@ -4378,7 +4378,7 @@
         "per": 8.352839,
         "forward_per": 20.148588,
         "pbr": 1.4417955,
-        "dividend_yield": 4.39,
+        "dividend_yield": 4.06,
         "market_cap": 11437760512.0,
         "eps": 162.34,
         "roe": 0.18414,
@@ -5267,7 +5267,7 @@
         "per": 8.9558735,
         "forward_per": null,
         "pbr": 0.64925617,
-        "dividend_yield": 4.7,
+        "dividend_yield": 4.66,
         "market_cap": 25952139264.0,
         "eps": 276.02,
         "roe": 0.08939999,
@@ -7019,7 +7019,7 @@
         "per": 18.146214,
         "forward_per": 44.55128,
         "pbr": 7.3327904,
-        "dividend_yield": 1.78,
+        "dividend_yield": 1.82,
         "market_cap": 126110818304.0,
         "eps": 153.2,
         "roe": 0.50234,
@@ -8777,7 +8777,7 @@
         "roe": 0.15281,
         "week52_high": 2950.0,
         "week52_low": 1835.0,
-        "avg_volume": 16855.0
+        "avg_volume": 16682.0
       },
       "signals": []
     },
@@ -9647,13 +9647,13 @@
         "per": 55.903008,
         "forward_per": 30.205124,
         "pbr": 2.3220985,
-        "dividend_yield": 1.55,
+        "dividend_yield": 1.58,
         "market_cap": 735557058560.0,
         "eps": 45.57,
         "roe": 0.055180002,
         "week52_high": 3100.0,
         "week52_low": 1475.0,
-        "avg_volume": 4483620.0
+        "avg_volume": 4478845.0
       },
       "signals": []
     },
@@ -10523,7 +10523,7 @@
         "per": 27.400625,
         "forward_per": 9.354273,
         "pbr": 9.549529,
-        "dividend_yield": 1.34,
+        "dividend_yield": 1.1,
         "market_cap": 1487651864576.0,
         "eps": 44.78,
         "roe": null,
@@ -11399,7 +11399,7 @@
         "per": 14.412273,
         "forward_per": 13.070743,
         "pbr": 2.1188953,
-        "dividend_yield": 4.96,
+        "dividend_yield": 4.95,
         "market_cap": 170005315584.0,
         "eps": 138.84,
         "roe": 0.14886,
@@ -12288,7 +12288,7 @@
         "roe": 0.31028998,
         "week52_high": 555.0,
         "week52_low": 385.0,
-        "avg_volume": 1187939.0
+        "avg_volume": 1195210.0
       },
       "signals": [
         {
@@ -14916,7 +14916,7 @@
         "name": "東ソー",
         "per": 20.804077,
         "forward_per": 12.478489,
-        "pbr": 1.0085236,
+        "pbr": 1.0199575,
         "dividend_yield": 3.65,
         "market_cap": 848392421376.0,
         "eps": 132.45,
@@ -15812,7 +15812,7 @@
         "roe": 0.112320006,
         "week52_high": 7930.0,
         "week52_low": 4366.0,
-        "avg_volume": 7939684.0
+        "avg_volume": 7921525.0
       },
       "signals": []
     },
@@ -16682,7 +16682,7 @@
         "per": 26.866367,
         "forward_per": 28.808899,
         "pbr": 4.0315247,
-        "dividend_yield": 2.03,
+        "dividend_yield": 2.04,
         "market_cap": 1984854622208.0,
         "eps": 171.59,
         "roe": 0.16645999,
@@ -21089,7 +21089,7 @@
         "per": 11.694228,
         "forward_per": 15.413724,
         "pbr": 1.3757184,
-        "dividend_yield": 3.77,
+        "dividend_yield": 3.49,
         "market_cap": 43867611136.0,
         "eps": 261.24,
         "roe": 0.13934,
@@ -21972,7 +21972,7 @@
         "per": 19.025347,
         "forward_per": 8.463087,
         "pbr": 0.6562182,
-        "dividend_yield": 4.3,
+        "dividend_yield": 4.39,
         "market_cap": 41737654272.0,
         "eps": 66.28,
         "roe": 0.03578,
@@ -22848,8 +22848,8 @@
         "per": 19.557478,
         "forward_per": null,
         "pbr": 1.0329719,
-        "dividend_yield": 2.71,
-        "market_cap": 19410819072.0,
+        "dividend_yield": 2.79,
+        "market_cap": 19279857664.0,
         "eps": 39.32,
         "roe": 0.0538,
         "week52_high": 1012.0,
@@ -24613,7 +24613,7 @@
         "roe": null,
         "week52_high": 6099.0,
         "week52_low": 1950.0,
-        "avg_volume": 5626984.0
+        "avg_volume": 5687156.0
       },
       "signals": [
         {
@@ -27261,7 +27261,7 @@
         "per": 11.6274805,
         "forward_per": 10.998176,
         "pbr": 2.6290705,
-        "dividend_yield": 5.52,
+        "dividend_yield": 5.74,
         "market_cap": 30462539776.0,
         "eps": 108.88,
         "roe": 0.23008,
