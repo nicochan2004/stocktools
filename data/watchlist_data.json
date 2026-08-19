@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:03:09.669290+00:00",
+  "generated_at": "2026-08-19T07:52:25.765678+00:00",
   "stocks": [
     {
       "code": "9107",
@@ -2625,7 +2625,7 @@
         "roe": 0.16712,
         "week52_high": 247.9,
         "week52_low": 202.6,
-        "avg_volume": 79797217.0
+        "avg_volume": 79709565.0
       },
       "signals": []
     },
@@ -5260,7 +5260,7 @@
         "roe": 0.08939999,
         "week52_high": 2730.0,
         "week52_low": 1919.0,
-        "avg_volume": 30069.0
+        "avg_volume": 30164.0
       },
       "signals": [
         {
@@ -7017,9 +7017,9 @@
         "market_cap": 132597817344.0,
         "eps": 166.53,
         "roe": 0.4825,
-        "week52_high": 4150.0,
+        "week52_high": 4160.0,
         "week52_low": 1948.0,
-        "avg_volume": 382128.0
+        "avg_volume": 387056.0
       },
       "signals": []
     },
@@ -7895,7 +7895,7 @@
         "roe": null,
         "week52_high": 5228.0,
         "week52_low": 1903.0,
-        "avg_volume": 2392888.0
+        "avg_volume": 2455776.0
       },
       "signals": []
     },
@@ -8771,7 +8771,7 @@
         "roe": 0.10942,
         "week52_high": 2950.0,
         "week52_low": 1835.0,
-        "avg_volume": 17049.0
+        "avg_volume": 17054.0
       },
       "signals": []
     },
@@ -9647,7 +9647,7 @@
         "roe": 0.055180002,
         "week52_high": 3100.0,
         "week52_low": 1475.0,
-        "avg_volume": 4084623.0
+        "avg_volume": 4160040.0
       },
       "signals": []
     },
@@ -10516,7 +10516,7 @@
         "name": "サンリオ",
         "per": 25.971416,
         "forward_per": 8.866357,
-        "pbr": 8.641636,
+        "pbr": 9.051429,
         "dividend_yield": 1.34,
         "market_cap": 1410056323072.0,
         "eps": 44.78,
@@ -12282,7 +12282,7 @@
         "roe": 0.31028998,
         "week52_high": 555.0,
         "week52_low": 385.0,
-        "avg_volume": 1157806.0
+        "avg_volume": 1160325.0
       },
       "signals": [
         {
@@ -19317,7 +19317,7 @@
         "roe": 0.1003,
         "week52_high": 1253.0,
         "week52_low": 466.0,
-        "avg_volume": 212809.0
+        "avg_volume": 214860.0
       },
       "signals": [
         {
@@ -24608,7 +24608,7 @@
         "roe": null,
         "week52_high": 6099.0,
         "week52_low": 1950.0,
-        "avg_volume": 5377473.0
+        "avg_volume": 5366337.0
       },
       "signals": []
     },
