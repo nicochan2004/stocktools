@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T07:24:05.057760+00:00",
+  "generated_at": "2026-08-20T08:03:16.598329+00:00",
   "stocks": [
     {
       "code": "9107",
@@ -2623,9 +2623,9 @@
         "market_cap": 11150040236032.0,
         "eps": 11.27,
         "roe": 0.16712,
-        "week52_high": 244.8,
+        "week52_high": 245.6,
         "week52_low": 202.6,
-        "avg_volume": 79832888.0
+        "avg_volume": 79611500.0
       },
       "signals": []
     },
@@ -3501,7 +3501,7 @@
         "roe": 0.31964,
         "week52_high": 9074.0,
         "week52_low": 3365.0,
-        "avg_volume": 60578766.0
+        "avg_volume": 60753848.0
       },
       "signals": [
         {
@@ -5260,7 +5260,7 @@
         "roe": 0.08939999,
         "week52_high": 2730.0,
         "week52_low": 1919.0,
-        "avg_volume": 30023.0
+        "avg_volume": 30206.0
       },
       "signals": [
         {
@@ -10516,7 +10516,7 @@
         "name": "サンリオ",
         "per": 26.831175,
         "forward_per": 9.159869,
-        "pbr": 9.351068,
+        "pbr": 8.92771,
         "dividend_yield": 1.38,
         "market_cap": 1456734863360.0,
         "eps": 44.78,
@@ -13151,7 +13151,7 @@
         "roe": 0.31712,
         "week52_high": 1917.0,
         "week52_low": 1330.0,
-        "avg_volume": 71749.0
+        "avg_volume": 72831.0
       },
       "signals": []
     },
@@ -14027,7 +14027,7 @@
         "roe": null,
         "week52_high": 1544.0,
         "week52_low": 901.0,
-        "avg_volume": 212244.0
+        "avg_volume": 211512.0
       },
       "signals": []
     },
@@ -23697,7 +23697,7 @@
         "roe": 0.56895,
         "week52_high": 38730.0,
         "week52_low": 10450.0,
-        "avg_volume": 9021873.0
+        "avg_volume": 9019682.0
       },
       "signals": []
     },
@@ -26332,7 +26332,7 @@
         "roe": 0.111990005,
         "week52_high": 2149.0,
         "week52_low": 1567.0,
-        "avg_volume": 1010990.0
+        "avg_volume": 1016143.0
       },
       "signals": []
     },
