@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T07:27:33.591625+00:00",
+  "generated_at": "2026-08-21T08:04:34.118530+00:00",
   "stocks": [
     {
       "code": "9107",
@@ -3501,7 +3501,7 @@
         "roe": 0.31964,
         "week52_high": 9074.0,
         "week52_low": 3365.0,
-        "avg_volume": 59977861.0
+        "avg_volume": 60182815.0
       },
       "signals": [
         {
@@ -5260,7 +5260,7 @@
         "roe": 0.08939999,
         "week52_high": 2730.0,
         "week52_low": 1919.0,
-        "avg_volume": 29756.0
+        "avg_volume": 29523.0
       },
       "signals": [
         {
@@ -8771,7 +8771,7 @@
         "roe": 0.10942,
         "week52_high": 2950.0,
         "week52_low": 1835.0,
-        "avg_volume": 16931.0
+        "avg_volume": 16911.0
       },
       "signals": []
     },
@@ -9647,7 +9647,7 @@
         "roe": 0.055180002,
         "week52_high": 3100.0,
         "week52_low": 1475.0,
-        "avg_volume": 4023235.0
+        "avg_volume": 4006188.0
       },
       "signals": []
     },
@@ -12275,7 +12275,7 @@
         "roe": 0.31028998,
         "week52_high": 555.0,
         "week52_low": 385.0,
-        "avg_volume": 1157860.0
+        "avg_volume": 1161007.0
       },
       "signals": []
     },
@@ -14027,7 +14027,7 @@
         "roe": null,
         "week52_high": 1548.0,
         "week52_low": 901.0,
-        "avg_volume": 215300.0
+        "avg_volume": 213598.0
       },
       "signals": []
     },
@@ -22794,7 +22794,7 @@
         "name": "共和電",
         "per": 19.674671,
         "forward_per": null,
-        "pbr": 1.023569,
+        "pbr": 1.023507,
         "dividend_yield": 2.76,
         "market_cap": 19154345984.0,
         "eps": 38.73,
@@ -24560,7 +24560,7 @@
         "roe": null,
         "week52_high": 6099.0,
         "week52_low": 1950.0,
-        "avg_volume": 5343942.0
+        "avg_volume": 5346103.0
       },
       "signals": []
     },
@@ -26312,7 +26312,7 @@
         "roe": 0.111990005,
         "week52_high": 2168.0,
         "week52_low": 1567.0,
-        "avg_volume": 1012962.0
+        "avg_volume": 1019271.0
       },
       "signals": []
     },
