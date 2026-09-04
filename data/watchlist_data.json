@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T07:12:28.509546+00:00",
+  "generated_at": "2026-09-04T12:07:39.702805+00:00",
   "stocks": [
     {
       "code": "9107",
@@ -1800,12 +1800,12 @@
         "forward_per": 11.862543,
         "pbr": 1.4256216,
         "dividend_yield": 3.12,
-        "market_cap": 13985423294464.0,
+        "market_cap": 14015640109056.0,
         "eps": 12.61,
         "roe": 0.107130006,
         "week52_high": 176.0,
         "week52_low": 142.6,
-        "avg_volume": 244921289.0
+        "avg_volume": 245474914.0
       },
       "signals": []
     },
@@ -2709,7 +2709,7 @@
         "roe": 0.16712,
         "week52_high": 242.6,
         "week52_low": 202.6,
-        "avg_volume": 79171326.0
+        "avg_volume": 79288403.0
       },
       "signals": []
     },
@@ -3613,7 +3613,7 @@
         "roe": 0.31964,
         "week52_high": 9074.0,
         "week52_low": 3365.0,
-        "avg_volume": 50287978.0
+        "avg_volume": 49871507.0
       },
       "signals": []
     },
@@ -5433,8 +5433,8 @@
         "eps": 275.79,
         "roe": 0.08939999,
         "week52_high": 2730.0,
-        "week52_low": 1928.0,
-        "avg_volume": 28750.0
+        "week52_low": 1933.0,
+        "avg_volume": 28911.0
       },
       "signals": [
         {
@@ -7256,7 +7256,7 @@
         "roe": 0.4825,
         "week52_high": 3745.0,
         "week52_low": 1948.0,
-        "avg_volume": 341503.0
+        "avg_volume": 339198.0
       },
       "signals": []
     },
@@ -9064,7 +9064,7 @@
         "roe": 0.10942,
         "week52_high": 2950.0,
         "week52_low": 1835.0,
-        "avg_volume": 15860.0
+        "avg_volume": 15677.0
       },
       "signals": [
         {
@@ -9974,8 +9974,8 @@
         "eps": 45.75,
         "roe": 0.055180002,
         "week52_high": 3100.0,
-        "week52_low": 1484.0,
-        "avg_volume": 3443657.0
+        "week52_low": 1488.5,
+        "avg_volume": 3431617.0
       },
       "signals": []
     },
@@ -13598,7 +13598,7 @@
         "roe": 0.22894,
         "week52_high": 1917.0,
         "week52_low": 1330.0,
-        "avg_volume": 66853.0
+        "avg_volume": 66385.0
       },
       "signals": [
         {
@@ -14509,7 +14509,7 @@
         "roe": null,
         "week52_high": 1627.0,
         "week52_low": 901.0,
-        "avg_volume": 219993.0
+        "avg_volume": 220434.0
       },
       "signals": []
     },
@@ -16324,7 +16324,7 @@
         "roe": 0.112320006,
         "week52_high": 7930.0,
         "week52_low": 4366.0,
-        "avg_volume": 7295231.0
+        "avg_volume": 7304190.0
       },
       "signals": []
     },
@@ -18128,7 +18128,7 @@
         "pbr": 1.7977829,
         "dividend_yield": null,
         "market_cap": 1646089994240.0,
-        "eps": -29.98,
+        "eps": -29.69,
         "roe": 0.0034,
         "week52_high": 1068.5,
         "week52_low": 686.1,
@@ -19940,7 +19940,7 @@
         "roe": 0.13075,
         "week52_high": 1253.0,
         "week52_low": 466.0,
-        "avg_volume": 199092.0
+        "avg_volume": 200092.0
       },
       "signals": [
         {
@@ -21746,12 +21746,12 @@
       ],
       "fundamentals": {
         "name": "鈴木",
-        "per": 12.445466,
+        "per": 12.235285,
         "forward_per": 16.12008,
         "pbr": 1.4387628,
         "dividend_yield": 3.8,
         "market_cap": 45877907456.0,
-        "eps": 256.72,
+        "eps": 261.13,
         "roe": 0.13934,
         "week52_high": 3510.0,
         "week52_low": 2046.0,
@@ -23570,7 +23570,7 @@
         "roe": 0.0538,
         "week52_high": 1012.0,
         "week52_low": 650.0,
-        "avg_volume": 47100.0
+        "avg_volume": 46473.0
       },
       "signals": []
     },
@@ -24473,8 +24473,8 @@
         "eps": 516.48,
         "roe": 0.56895,
         "week52_high": 38730.0,
-        "week52_low": 10725.0,
-        "avg_volume": 8958318.0
+        "week52_low": 11320.0,
+        "avg_volume": 8979769.0
       },
       "signals": []
     },
@@ -25378,7 +25378,7 @@
         "roe": null,
         "week52_high": 6099.0,
         "week52_low": 1950.0,
-        "avg_volume": 4826743.0
+        "avg_volume": 4803573.0
       },
       "signals": [
         {
@@ -27193,7 +27193,7 @@
         "roe": 0.111990005,
         "week52_high": 2197.5,
         "week52_low": 1567.0,
-        "avg_volume": 984764.0
+        "avg_volume": 991006.0
       },
       "signals": [
         {
