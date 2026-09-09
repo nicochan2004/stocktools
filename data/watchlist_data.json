@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T07:29:10.972783+00:00",
+  "generated_at": "2026-09-09T12:26:35.607686+00:00",
   "stocks": [
     {
       "code": "9107",
@@ -2709,7 +2709,7 @@
         "roe": 0.16712,
         "week52_high": 242.6,
         "week52_low": 202.6,
-        "avg_volume": 78503034.0
+        "avg_volume": 78628785.0
       },
       "signals": [
         {
@@ -3620,7 +3620,7 @@
         "roe": 0.31964,
         "week52_high": 9074.0,
         "week52_low": 3365.0,
-        "avg_volume": 51358925.0
+        "avg_volume": 51105223.0
       },
       "signals": []
     },
@@ -5440,8 +5440,8 @@
         "eps": 275.81,
         "roe": 0.08939999,
         "week52_high": 2730.0,
-        "week52_low": 1970.0,
-        "avg_volume": 28982.0
+        "week52_low": 1990.0,
+        "avg_volume": 29126.0
       },
       "signals": [
         {
@@ -13612,7 +13612,7 @@
         "roe": 0.22894,
         "week52_high": 1917.0,
         "week52_low": 1330.0,
-        "avg_volume": 64525.0
+        "avg_volume": 64453.0
       },
       "signals": []
     },
@@ -19961,7 +19961,7 @@
         "roe": 0.13075,
         "week52_high": 1253.0,
         "week52_low": 466.0,
-        "avg_volume": 197951.0
+        "avg_volume": 199328.0
       },
       "signals": [
         {
@@ -27221,7 +27221,7 @@
         "roe": 0.111990005,
         "week52_high": 2197.5,
         "week52_low": 1567.0,
-        "avg_volume": 985389.0
+        "avg_volume": 985565.0
       },
       "signals": []
     },
