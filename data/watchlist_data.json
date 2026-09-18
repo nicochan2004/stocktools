@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T07:31:25.008058+00:00",
+  "generated_at": "2026-09-18T12:22:16.567824+00:00",
   "stocks": [
     {
       "code": "9107",
@@ -2709,7 +2709,7 @@
         "roe": 0.16712,
         "week52_high": 252.9,
         "week52_low": 202.6,
-        "avg_volume": 78956078.0
+        "avg_volume": 79035849.0
       },
       "signals": []
     },
@@ -5421,7 +5421,7 @@
         "roe": 0.08939999,
         "week52_high": 2730.0,
         "week52_low": 1996.0,
-        "avg_volume": 29662.0
+        "avg_volume": 29861.0
       },
       "signals": [
         {
@@ -9058,7 +9058,7 @@
         "roe": 0.10942,
         "week52_high": 2950.0,
         "week52_low": 1835.0,
-        "avg_volume": 12764.0
+        "avg_volume": 12292.0
       },
       "signals": []
     },
@@ -9962,7 +9962,7 @@
         "roe": 0.055180002,
         "week52_high": 3100.0,
         "week52_low": 1488.5,
-        "avg_volume": 2924556.0
+        "avg_volume": 2909469.0
       },
       "signals": []
     },
@@ -12688,7 +12688,7 @@
         "roe": 0.31028998,
         "week52_high": 555.0,
         "week52_low": 385.0,
-        "avg_volume": 1100767.0
+        "avg_volume": 1100177.0
       },
       "signals": [
         {
@@ -13599,7 +13599,7 @@
         "roe": 0.22894,
         "week52_high": 1917.0,
         "week52_low": 1330.0,
-        "avg_volume": 61037.0
+        "avg_volume": 61012.0
       },
       "signals": [
         {
@@ -14510,7 +14510,7 @@
         "roe": 0.48094,
         "week52_high": 1627.0,
         "week52_low": 901.0,
-        "avg_volume": 343498.0
+        "avg_volume": 347222.0
       },
       "signals": [
         {
@@ -19947,8 +19947,8 @@
         "eps": 81.88,
         "roe": 0.13075,
         "week52_high": 1253.0,
-        "week52_low": 473.0,
-        "avg_volume": 197151.0
+        "week52_low": 478.0,
+        "avg_volume": 198593.0
       },
       "signals": []
     },
@@ -24488,8 +24488,8 @@
         "eps": 517.1,
         "roe": 0.56895,
         "week52_high": 38730.0,
-        "week52_low": 13995.0,
-        "avg_volume": 8943570.0
+        "week52_low": 14360.0,
+        "avg_volume": 8966455.0
       },
       "signals": []
     },
@@ -25393,7 +25393,7 @@
         "roe": null,
         "week52_high": 6099.0,
         "week52_low": 1950.0,
-        "avg_volume": 4440789.0
+        "avg_volume": 4441285.0
       },
       "signals": []
     },
@@ -27208,7 +27208,7 @@
         "roe": 0.111990005,
         "week52_high": 2197.5,
         "week52_low": 1567.0,
-        "avg_volume": 987370.0
+        "avg_volume": 989296.0
       },
       "signals": [
         {
