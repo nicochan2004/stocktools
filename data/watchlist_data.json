@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T07:43:31.242023+00:00",
+  "generated_at": "2026-10-15T12:52:14.259030+00:00",
   "stocks": [
     {
       "code": "9107",
@@ -1740,12 +1740,12 @@
       ],
       "fundamentals": {
         "name": "NTT",
-        "per": 13.634933,
+        "per": 13.570869,
         "forward_per": 11.910653,
         "pbr": 1.4314034,
         "dividend_yield": 3.13,
         "market_cap": 14025690710016.0,
-        "eps": 12.71,
+        "eps": 12.77,
         "roe": 0.107130006,
         "week52_high": 180.1,
         "week52_low": 142.6,
@@ -2632,7 +2632,7 @@
         "roe": 0.16712,
         "week52_high": 252.9,
         "week52_low": 202.6,
-        "avg_volume": 79091271.0
+        "avg_volume": 79072905.0
       },
       "signals": [
         {
@@ -3515,7 +3515,7 @@
         "roe": 0.31964,
         "week52_high": 9074.0,
         "week52_low": 3365.0,
-        "avg_volume": 52874886.0
+        "avg_volume": 52966745.0
       },
       "signals": []
     },
@@ -5267,7 +5267,7 @@
         "roe": 0.08939999,
         "week52_high": 2730.0,
         "week52_low": 2049.0,
-        "avg_volume": 25703.0
+        "avg_volume": 25730.0
       },
       "signals": [
         {
@@ -9659,12 +9659,12 @@
       ],
       "fundamentals": {
         "name": "浜松ホトニク",
-        "per": 38.027554,
+        "per": 37.84933,
         "forward_per": 25.85369,
         "pbr": 1.9875705,
         "dividend_yield": 1.63,
         "market_cap": 629590654976.0,
-        "eps": 57.34,
+        "eps": 57.61,
         "roe": 0.055180002,
         "week52_high": 3100.0,
         "week52_low": 1488.5,
@@ -13200,7 +13200,7 @@
         "roe": 0.22894,
         "week52_high": 1787.0,
         "week52_low": 1330.0,
-        "avg_volume": 63101.0
+        "avg_volume": 63935.0
       },
       "signals": []
     },
@@ -14076,7 +14076,7 @@
         "roe": 0.48094,
         "week52_high": 1627.0,
         "week52_low": 901.0,
-        "avg_volume": 340413.0
+        "avg_volume": 343916.0
       },
       "signals": []
     },
@@ -15819,12 +15819,12 @@
       ],
       "fundamentals": {
         "name": "信越化",
-        "per": 23.222214,
+        "per": 23.616776,
         "forward_per": 18.084494,
         "pbr": 2.4326255,
         "dividend_yield": 1.88,
         "market_cap": 10827214094336.0,
-        "eps": 256.78,
+        "eps": 252.49,
         "roe": 0.112320006,
         "week52_high": 7930.0,
         "week52_low": 4366.0,
@@ -21958,12 +21958,12 @@
       ],
       "fundamentals": {
         "name": "スミダ",
-        "per": 18.139395,
+        "per": 18.183191,
         "forward_per": 8.087248,
         "pbr": 0.6270761,
         "dividend_yield": 4.22,
         "market_cap": 39885807616.0,
-        "eps": 66.43,
+        "eps": 66.27,
         "roe": 0.03578,
         "week52_high": 1626.0,
         "week52_low": 1043.0,
@@ -22841,16 +22841,16 @@
       ],
       "fundamentals": {
         "name": "共和電",
-        "per": 20.59845,
+        "per": 20.49442,
         "forward_per": null,
         "pbr": 1.0381098,
         "dividend_yield": 2.71,
         "market_cap": 19380578304.0,
-        "eps": 37.43,
+        "eps": 37.62,
         "roe": 0.0538,
         "week52_high": 1012.0,
         "week52_low": 650.0,
-        "avg_volume": 26463.0
+        "avg_volume": 26418.0
       },
       "signals": [
         {
@@ -23739,7 +23739,7 @@
         "roe": 0.56895,
         "week52_high": 41990.0,
         "week52_low": 16325.0,
-        "avg_volume": 10349871.0
+        "avg_volume": 10393264.0
       },
       "signals": []
     },
@@ -26393,7 +26393,7 @@
         "roe": 0.111990005,
         "week52_high": 2197.5,
         "week52_low": 1567.0,
-        "avg_volume": 970251.0
+        "avg_volume": 971771.0
       },
       "signals": []
     },
