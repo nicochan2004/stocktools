@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T07:23:53.778342+00:00",
+  "generated_at": "2026-10-16T12:36:26.894759+00:00",
   "stocks": [
     {
       "code": "9107",
@@ -1749,7 +1749,7 @@
         "roe": 0.107130006,
         "week52_high": 180.1,
         "week52_low": 142.6,
-        "avg_volume": 224351183.0
+        "avg_volume": 224930283.0
       },
       "signals": []
     },
@@ -3501,7 +3501,7 @@
         "roe": 0.31964,
         "week52_high": 9074.0,
         "week52_low": 3365.0,
-        "avg_volume": 53336723.0
+        "avg_volume": 53447649.0
       },
       "signals": []
     },
@@ -5253,7 +5253,7 @@
         "roe": 0.08939999,
         "week52_high": 2730.0,
         "week52_low": 2049.0,
-        "avg_volume": 25808.0
+        "avg_volume": 25547.0
       },
       "signals": [
         {
@@ -9654,7 +9654,7 @@
         "roe": 0.055180002,
         "week52_high": 3100.0,
         "week52_low": 1488.5,
-        "avg_volume": 2579815.0
+        "avg_volume": 2573996.0
       },
       "signals": [
         {
@@ -11411,12 +11411,12 @@
       ],
       "fundamentals": {
         "name": "オープンアップG",
-        "per": 14.567235,
+        "per": 14.805475,
         "forward_per": 13.423477,
         "pbr": 2.176077,
         "dividend_yield": 4.87,
         "market_cap": 174593163264.0,
-        "eps": 141.07,
+        "eps": 138.8,
         "roe": 0.14886,
         "week52_high": 2106.0,
         "week52_low": 1658.0,
@@ -13186,7 +13186,7 @@
         "roe": 0.22894,
         "week52_high": 1787.0,
         "week52_low": 1330.0,
-        "avg_volume": 63951.0
+        "avg_volume": 64147.0
       },
       "signals": []
     },
@@ -14062,7 +14062,7 @@
         "roe": 0.48094,
         "week52_high": 1627.0,
         "week52_low": 901.0,
-        "avg_volume": 346073.0
+        "avg_volume": 349022.0
       },
       "signals": []
     },
@@ -15814,7 +15814,7 @@
         "roe": 0.112320006,
         "week52_high": 7930.0,
         "week52_low": 4366.0,
-        "avg_volume": 7016430.0
+        "avg_volume": 7041637.0
       },
       "signals": []
     },
@@ -17562,7 +17562,7 @@
         "pbr": 1.5354075,
         "dividend_yield": 0.0,
         "market_cap": 1405853237248.0,
-        "eps": -29.66,
+        "eps": -28.85,
         "roe": 0.0034,
         "week52_high": 1068.5,
         "week52_low": 606.6,
@@ -19318,7 +19318,7 @@
         "roe": 0.13075,
         "week52_high": 1253.0,
         "week52_low": 482.0,
-        "avg_volume": 189455.0
+        "avg_volume": 190586.0
       },
       "signals": []
     },
@@ -23725,7 +23725,7 @@
         "roe": 0.56895,
         "week52_high": 41990.0,
         "week52_low": 16325.0,
-        "avg_volume": 10656448.0
+        "avg_volume": 10685935.0
       },
       "signals": []
     },
@@ -26367,7 +26367,7 @@
         "roe": 0.111990005,
         "week52_high": 2197.5,
         "week52_low": 1567.0,
-        "avg_volume": 970271.0
+        "avg_volume": 974118.0
       },
       "signals": []
     },
@@ -27234,12 +27234,12 @@
       ],
       "fundamentals": {
         "name": "青山財産",
-        "per": 12.150469,
+        "per": 12.234042,
         "forward_per": 11.588915,
         "pbr": 2.594392,
         "dividend_yield": 5.33,
         "market_cap": 32103026688.0,
-        "eps": 109.79,
+        "eps": 109.04,
         "roe": 0.23008,
         "week52_high": 2071.0,
         "week52_low": 1185.0,
