@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-09T03:49:47.941026+00:00",
+  "generated_at": "2026-11-09T12:21:36.329526+00:00",
   "stocks": [
     {
       "code": "9107",
       "name": "川崎船",
-      "price": 3036.0,
-      "change_pct": 1.5384615384615385,
+      "price": 3005.0,
+      "change_pct": 0.5016722408026756,
       "history": [
         {
           "date": "2026-05-11",
@@ -870,32 +870,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 3036.0,
-          "ma5": 3229.9,
-          "ma25": 3350.82,
-          "ma75": 3186.3427213541668
+          "close": 3005.0,
+          "ma5": 3223.7,
+          "ma25": 3349.58,
+          "ma75": 3185.9293880208334
         }
       ],
       "fundamentals": {
         "name": "川崎船",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 9.838266,
+        "forward_per": 8.59972,
+        "pbr": 1.0282633,
+        "dividend_yield": 4.0,
+        "market_cap": 1765273370624.0,
+        "eps": 305.44,
+        "roe": 0.109680004,
+        "week52_high": 3610.0,
+        "week52_low": 2045.5,
+        "avg_volume": 4412806.0
       },
       "signals": []
     },
     {
       "code": "9432",
       "name": "NTT",
-      "price": 163.6999969482422,
-      "change_pct": 2.697618078047273,
+      "price": 165.1999969482422,
+      "change_pct": 3.638646972298117,
       "history": [
         {
           "date": "2026-05-11",
@@ -1760,32 +1760,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 163.6999969482422,
-          "ma5": 165.45999755859376,
-          "ma25": 171.85600036621094,
-          "ma75": 165.8249277750651
+          "close": 165.1999969482422,
+          "ma5": 165.75999755859374,
+          "ma25": 171.91600036621094,
+          "ma75": 165.84492777506512
         }
       ],
       "fundamentals": {
         "name": "NTT",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 14.3902445,
+        "forward_per": 11.353951,
+        "pbr": 1.3490119,
+        "dividend_yield": 3.37,
+        "market_cap": 13342363090944.0,
+        "eps": 11.48,
+        "roe": 0.09751,
+        "week52_high": 181.3,
+        "week52_low": 142.6,
+        "avg_volume": 210790630.0
       },
       "signals": []
     },
     {
       "code": "9434",
       "name": "ソフトバンク",
-      "price": 236.39999389648438,
-      "change_pct": 0.9393667706701051,
+      "price": 238.39999389648438,
+      "change_pct": 1.793337746785018,
       "history": [
         {
           "date": "2026-05-11",
@@ -2650,32 +2650,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 236.39999389648438,
-          "ma5": 236.81999816894532,
-          "ma25": 239.52799926757814,
-          "ma75": 234.34883850097657
+          "close": 238.39999389648438,
+          "ma5": 237.21999816894532,
+          "ma25": 239.60799926757812,
+          "ma75": 234.37550516764324
         }
       ],
       "fundamentals": {
         "name": "ソフトバンク",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 21.153503,
+        "forward_per": 20.569456,
+        "pbr": 3.9168007,
+        "dividend_yield": 3.7,
+        "market_cap": 11403558649856.0,
+        "eps": 11.27,
+        "roe": 0.16712,
+        "week52_high": 252.9,
+        "week52_low": 202.6,
+        "avg_volume": 78344364.0
       },
       "signals": []
     },
     {
       "code": "9984",
       "name": "ソフトバンクグループ",
-      "price": 3496.0,
-      "change_pct": -2.0179372197309418,
+      "price": 3400.0,
+      "change_pct": -4.708520179372197,
       "history": [
         {
           "date": "2026-05-11",
@@ -3540,32 +3540,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 3496.0,
-          "ma5": 3940.8,
-          "ma25": 4907.32,
-          "ma75": 5423.925572916667
+          "close": 3400.0,
+          "ma5": 3921.6,
+          "ma25": 4903.48,
+          "ma75": 5422.645572916666
         }
       ],
       "fundamentals": {
         "name": "ソフトバンクグループ",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 3.9573996,
+        "forward_per": 11.514105,
+        "pbr": 1.0630076,
+        "dividend_yield": 0.31,
+        "market_cap": 19376768024576.0,
+        "eps": 859.15,
+        "roe": 0.31964,
+        "week52_high": 9074.0,
+        "week52_low": 3350.0,
+        "avg_volume": 53672766.0
       },
       "signals": []
     },
     {
       "code": "5071",
       "name": "ヴィス",
-      "price": 1330.0,
-      "change_pct": -0.7462686567164178,
+      "price": 1326.0,
+      "change_pct": -1.0447761194029852,
       "history": [
         {
           "date": "2026-05-11",
@@ -4430,32 +4430,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 1330.0,
-          "ma5": 1341.4,
-          "ma25": 1370.04,
-          "ma75": 1389.24
+          "close": 1326.0,
+          "ma5": 1340.6,
+          "ma25": 1369.88,
+          "ma75": 1389.1866666666667
         }
       ],
       "fundamentals": {
         "name": "ヴィス",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 8.625512,
+        "forward_per": 19.702822,
+        "pbr": 1.4697391,
+        "dividend_yield": 4.47,
+        "market_cap": 11184712704.0,
+        "eps": 153.73,
+        "roe": 0.18132,
+        "week52_high": 1688.0,
+        "week52_low": 1301.0,
+        "avg_volume": 27947.0
       },
       "signals": []
     },
     {
       "code": "3611",
       "name": "マツオカ",
-      "price": 2277.0,
-      "change_pct": 2.5213867627194957,
+      "price": 2262.0,
+      "change_pct": 1.846015308419631,
       "history": [
         {
           "date": "2026-05-11",
@@ -5320,32 +5320,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 2277.0,
-          "ma5": 2276.0,
-          "ma25": 2341.92,
-          "ma75": 2418.76
+          "close": 2262.0,
+          "ma5": 2273.0,
+          "ma25": 2341.32,
+          "ma75": 2418.56
         }
       ],
       "fundamentals": {
         "name": "マツオカ",
-        "per": null,
+        "per": 7.6795115,
         "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "pbr": 0.5941009,
+        "dividend_yield": 5.18,
+        "market_cap": 23747399680.0,
+        "eps": 294.55,
+        "roe": 0.08939999,
+        "week52_high": 2730.0,
+        "week52_low": 2049.0,
+        "avg_volume": 24411.0
       },
       "signals": []
     },
     {
       "code": "4194",
       "name": "ビジョナル",
-      "price": 10110.0,
-      "change_pct": 4.0444581661006485,
+      "price": 10270.0,
+      "change_pct": 5.691056910569105,
       "history": [
         {
           "date": "2026-05-11",
@@ -6210,32 +6210,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 10110.0,
-          "ma5": 9959.0,
-          "ma25": 9601.44,
-          "ma75": 9119.626666666667
+          "close": 10270.0,
+          "ma5": 9991.0,
+          "ma25": 9607.84,
+          "ma75": 9121.76
         }
       ],
       "fundamentals": {
         "name": "ビジョナル",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 22.871523,
+        "forward_per": 23.747313,
+        "pbr": 4.8152704,
+        "dividend_yield": 0.0,
+        "market_cap": 415950667776.0,
+        "eps": 449.03,
+        "roe": 0.24233,
+        "week52_high": 11230.0,
+        "week52_low": 6280.0,
+        "avg_volume": 236230.0
       },
       "signals": []
     },
     {
       "code": "4776",
       "name": "CYBOZU",
-      "price": 3045.0,
-      "change_pct": 2.62891809908999,
+      "price": 3090.0,
+      "change_pct": 4.145601617795753,
       "history": [
         {
           "date": "2026-05-11",
@@ -7100,32 +7100,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 3045.0,
-          "ma5": 2986.6,
-          "ma25": 3081.72,
-          "ma75": 2964.1866666666665
+          "close": 3090.0,
+          "ma5": 2995.6,
+          "ma25": 3083.52,
+          "ma75": 2964.786666666667
         }
       ],
       "fundamentals": {
         "name": "CYBOZU",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 18.588703,
+        "forward_per": 49.51923,
+        "pbr": 8.002133,
+        "dividend_yield": 1.69,
+        "market_cap": 139233787904.0,
+        "eps": 166.23,
+        "roe": 0.4825,
+        "week52_high": 3410.0,
+        "week52_low": 1948.0,
+        "avg_volume": 246013.0
       },
       "signals": []
     },
     {
       "code": "4980",
       "name": "デクセリアルズ",
-      "price": 2431.5,
-      "change_pct": 4.919093851132686,
+      "price": 2385.5,
+      "change_pct": 2.9341963322545848,
       "history": [
         {
           "date": "2026-05-11",
@@ -7990,32 +7990,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 2431.5,
-          "ma5": 2568.8,
-          "ma25": 3133.1,
-          "ma75": 3104.479931640625
+          "close": 2385.5,
+          "ma5": 2559.6,
+          "ma25": 3131.26,
+          "ma75": 3103.8665983072915
         }
       ],
       "fundamentals": {
         "name": "デクセリアルズ",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
+        "per": 14.90658,
+        "forward_per": 15.592522,
+        "pbr": 3.5865548,
+        "dividend_yield": 2.73,
+        "market_cap": 399595438080.0,
+        "eps": 160.03,
         "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "week52_high": 5228.0,
+        "week52_low": 2083.0,
+        "avg_volume": 1720511.0
       },
       "signals": []
     },
     {
       "code": "6149",
       "name": "小田原エン",
-      "price": 1968.0,
-      "change_pct": 1.6528925619834711,
+      "price": 1961.0,
+      "change_pct": 1.2913223140495869,
       "history": [
         {
           "date": "2026-05-11",
@@ -8880,32 +8880,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 1968.0,
-          "ma5": 1965.0,
-          "ma25": 2048.8,
-          "ma75": 2158.7466666666664
+          "close": 1961.0,
+          "ma5": 1963.6,
+          "ma25": 2048.52,
+          "ma75": 2158.653333333333
         }
       ],
       "fundamentals": {
         "name": "小田原エン",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 5.554297,
+        "forward_per": 10.605733,
+        "pbr": 0.5793871,
+        "dividend_yield": 3.62,
+        "market_cap": 11245903872.0,
+        "eps": 353.06,
+        "roe": 0.10942,
+        "week52_high": 2630.0,
+        "week52_low": 1835.0,
+        "avg_volume": 13100.0
       },
       "signals": []
     },
     {
       "code": "6965",
       "name": "浜松ホトニク",
-      "price": 1967.5,
-      "change_pct": 5.07343124165554,
+      "price": 1924.0,
+      "change_pct": 2.7503337783711617,
       "history": [
         {
           "date": "2026-05-11",
@@ -9770,32 +9770,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 1967.5,
-          "ma5": 2010.4,
-          "ma25": 2202.78,
-          "ma75": 2281.938727213542
+          "close": 1924.0,
+          "ma5": 2001.7,
+          "ma25": 2201.04,
+          "ma75": 2281.3587272135414
         }
       ],
       "fundamentals": {
         "name": "浜松ホトニク",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 33.39698,
+        "forward_per": 22.812428,
+        "pbr": 1.7537655,
+        "dividend_yield": 2.02,
+        "market_cap": 554496098304.0,
+        "eps": 57.61,
+        "roe": 0.055180002,
+        "week52_high": 3100.0,
+        "week52_low": 1488.5,
+        "avg_volume": 2326908.0
       },
       "signals": []
     },
     {
       "code": "8136",
       "name": "サンリオ",
-      "price": 1142.0,
-      "change_pct": -7.154471544715448,
+      "price": 1169.5,
+      "change_pct": -4.91869918699187,
       "history": [
         {
           "date": "2026-05-11",
@@ -10660,32 +10660,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 1142.0,
-          "ma5": 1226.1,
-          "ma25": 1256.84,
-          "ma75": 1238.8889290364584
+          "close": 1169.5,
+          "ma5": 1231.6,
+          "ma25": 1257.94,
+          "ma75": 1239.255595703125
         }
       ],
       "fundamentals": {
         "name": "サンリオ",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
+        "per": 25.512653,
+        "forward_per": 8.915911,
+        "pbr": 7.944217,
+        "dividend_yield": 1.32,
+        "market_cap": 1417937158144.0,
+        "eps": 45.84,
         "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "week52_high": 1470.0,
+        "week52_low": 818.8,
+        "avg_volume": 18082645.0
       },
       "signals": []
     },
     {
       "code": "2154",
       "name": "オープンアップG",
-      "price": 1976.0,
-      "change_pct": 0.5597964376590331,
+      "price": 1985.0,
+      "change_pct": 1.0178117048346056,
       "history": [
         {
           "date": "2026-05-11",
@@ -11550,26 +11550,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 1976.0,
-          "ma5": 1997.0,
-          "ma25": 2012.8,
-          "ma75": 2011.0
+          "close": 1985.0,
+          "ma5": 1998.8,
+          "ma25": 2013.16,
+          "ma75": 2011.12
         }
       ],
       "fundamentals": {
         "name": "オープンアップG",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 14.6472845,
+        "forward_per": 12.966229,
+        "pbr": 2.150158,
+        "dividend_yield": 5.1,
+        "market_cap": 168645951488.0,
+        "eps": 135.52,
+        "roe": 0.15155,
+        "week52_high": 2106.0,
+        "week52_low": 1706.0,
+        "avg_volume": 157974.0
       },
       "signals": [
+        {
+          "pair": "5x25",
+          "kind": "ゴールデンクロス",
+          "status": "接近",
+          "text": "5x25 ゴールデンクロス接近"
+        },
         {
           "pair": "25x75",
           "kind": "デッドクロス",
@@ -11581,8 +11587,8 @@
     {
       "code": "2317",
       "name": "システナ",
-      "price": 452.0,
-      "change_pct": 2.0316027088036117,
+      "price": 453.0,
+      "change_pct": 2.2573363431151243,
       "history": [
         {
           "date": "2026-05-11",
@@ -12447,24 +12453,24 @@
         },
         {
           "date": "2026-11-09",
-          "close": 452.0,
-          "ma5": 442.6,
-          "ma25": 440.4,
-          "ma75": 431.24091552734376
+          "close": 453.0,
+          "ma5": 442.8,
+          "ma25": 440.44,
+          "ma75": 431.2542488606771
         }
       ],
       "fundamentals": {
         "name": "システナ",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 14.519231,
+        "forward_per": 17.97619,
+        "pbr": 3.8061152,
+        "dividend_yield": 4.06,
+        "market_cap": 161927495680.0,
+        "eps": 31.2,
+        "roe": 0.28171,
+        "week52_high": 547.0,
+        "week52_low": 385.0,
+        "avg_volume": 1244225.0
       },
       "signals": [
         {
@@ -12478,8 +12484,8 @@
     {
       "code": "3452",
       "name": "ビーロット",
-      "price": 1327.0,
-      "change_pct": 0.45420136260408783,
+      "price": 1311.0,
+      "change_pct": -0.757002271006813,
       "history": [
         {
           "date": "2026-05-11",
@@ -13344,24 +13350,24 @@
         },
         {
           "date": "2026-11-09",
-          "close": 1327.0,
-          "ma5": 1344.2,
-          "ma25": 1379.16,
-          "ma75": 1438.1733333333334
+          "close": 1311.0,
+          "ma5": 1341.0,
+          "ma25": 1378.52,
+          "ma75": 1437.96
         }
       ],
       "fundamentals": {
         "name": "ビーロット",
-        "per": null,
+        "per": 5.237087,
         "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "pbr": 1.1127597,
+        "dividend_yield": 6.08,
+        "market_cap": 24693653504.0,
+        "eps": 250.33,
+        "roe": 0.22894,
+        "week52_high": 1771.0,
+        "week52_low": 1300.0,
+        "avg_volume": 64077.0
       },
       "signals": []
     },
@@ -14242,24 +14248,24 @@
       ],
       "fundamentals": {
         "name": "シェアリングT",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 14.476531,
+        "forward_per": 25.480131,
+        "pbr": 6.5278525,
+        "dividend_yield": 1.8,
+        "market_cap": 36830220288.0,
+        "eps": 106.31,
+        "roe": 0.48094,
+        "week52_high": 1627.0,
+        "week52_low": 909.0,
+        "avg_volume": 381345.0
       },
       "signals": []
     },
     {
       "code": "4042",
       "name": "東ソー",
-      "price": 2382.5,
-      "change_pct": 2.7825711820534944,
+      "price": 2361.5,
+      "change_pct": 1.8766177739430543,
       "history": [
         {
           "date": "2026-05-11",
@@ -15124,32 +15130,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 2382.5,
-          "ma5": 2455.0,
-          "ma25": 2563.4,
-          "ma75": 2606.9284440104166
+          "close": 2361.5,
+          "ma5": 2450.8,
+          "ma25": 2562.56,
+          "ma75": 2606.648444010417
         }
       ],
       "fundamentals": {
         "name": "東ソー",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 12.042325,
+        "forward_per": 10.69423,
+        "pbr": 0.85179734,
+        "dividend_yield": 4.31,
+        "market_cap": 727083581440.0,
+        "eps": 196.1,
+        "roe": 0.083459996,
+        "week52_high": 3086.0,
+        "week52_low": 2204.0,
+        "avg_volume": 1215276.0
       },
       "signals": []
     },
     {
       "code": "4063",
       "name": "信越化",
-      "price": 5488.0,
-      "change_pct": 2.9836742353161942,
+      "price": 5441.0,
+      "change_pct": 2.101707637455432,
       "history": [
         {
           "date": "2026-05-11",
@@ -16014,24 +16020,24 @@
         },
         {
           "date": "2026-11-09",
-          "close": 5488.0,
-          "ma5": 5642.6,
-          "ma25": 5934.8,
-          "ma75": 6011.61314453125
+          "close": 5441.0,
+          "ma5": 5633.2,
+          "ma25": 5932.92,
+          "ma75": 6010.986477864583
         }
       ],
       "fundamentals": {
         "name": "信越化",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 21.549368,
+        "forward_per": 16.501379,
+        "pbr": 2.1893258,
+        "dividend_yield": 2.18,
+        "market_cap": 9879510056960.0,
+        "eps": 252.49,
+        "roe": 0.11748999,
+        "week52_high": 7930.0,
+        "week52_low": 4366.0,
+        "avg_volume": 6433194.0
       },
       "signals": [
         {
@@ -16045,8 +16051,8 @@
     {
       "code": "4684",
       "name": "オービック",
-      "price": 6325.0,
-      "change_pct": 4.562737642585551,
+      "price": 6423.0,
+      "change_pct": 6.182840138865928,
       "history": [
         {
           "date": "2026-05-11",
@@ -16911,32 +16917,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 6325.0,
-          "ma5": 6166.0,
-          "ma25": 5711.64,
-          "ma75": 5040.125403645833
+          "close": 6423.0,
+          "ma5": 6185.6,
+          "ma25": 5715.56,
+          "ma75": 5041.4320703125
         }
       ],
       "fundamentals": {
         "name": "オービック",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 33.962563,
+        "forward_per": 40.138733,
+        "pbr": 5.2990723,
+        "dividend_yield": 1.75,
+        "market_cap": 2752772308992.0,
+        "eps": 189.12,
+        "roe": 0.16341999,
+        "week52_high": 6423.0,
+        "week52_low": 3643.0,
+        "avg_volume": 1910615.0
       },
       "signals": []
     },
     {
       "code": "4755",
       "name": "楽天グループ",
-      "price": 648.9000244140625,
-      "change_pct": 4.492757554599437,
+      "price": 650.5999755859375,
+      "change_pct": 4.766501704659823,
       "history": [
         {
           "date": "2026-05-11",
@@ -17801,24 +17807,24 @@
         },
         {
           "date": "2026-11-09",
-          "close": 648.9000244140625,
-          "ma5": 633.460009765625,
-          "ma25": 637.2439990234375,
-          "ma75": 724.0973323567708
+          "close": 650.5999755859375,
+          "ma5": 633.8,
+          "ma25": 637.3119970703125,
+          "ma75": 724.1199983723958
         }
       ],
       "fundamentals": {
         "name": "楽天グループ",
         "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "forward_per": -85.49277,
+        "pbr": 1.5504209,
+        "dividend_yield": 0.0,
+        "market_cap": 1419599675392.0,
+        "eps": -29.66,
+        "roe": 0.0034,
+        "week52_high": 1068.5,
+        "week52_low": 601.3,
+        "avg_volume": 20836845.0
       },
       "signals": [
         {
@@ -17832,8 +17838,8 @@
     {
       "code": "5218",
       "name": "オハラ",
-      "price": 1426.0,
-      "change_pct": 4.468864468864469,
+      "price": 1401.0,
+      "change_pct": 2.6373626373626373,
       "history": [
         {
           "date": "2026-05-11",
@@ -18698,32 +18704,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 1426.0,
-          "ma5": 1459.4,
-          "ma25": 1611.82806640625,
-          "ma75": 1571.1168684895833
+          "close": 1401.0,
+          "ma5": 1454.4,
+          "ma25": 1610.82806640625,
+          "ma75": 1570.78353515625
         }
       ],
       "fundamentals": {
         "name": "オハラ",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 23.814379,
+        "forward_per": 17.064556,
+        "pbr": 0.62233424,
+        "dividend_yield": 1.82,
+        "market_cap": 33251938304.0,
+        "eps": 58.83,
+        "roe": 0.0352,
+        "week52_high": 1835.0,
+        "week52_low": 1019.0,
+        "avg_volume": 96533.0
       },
       "signals": []
     },
     {
       "code": "5698",
       "name": "エンビプロHD",
-      "price": 628.0,
-      "change_pct": 4.666666666666667,
+      "price": 615.0,
+      "change_pct": 2.5,
       "history": [
         {
           "date": "2026-05-11",
@@ -19588,32 +19594,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 628.0,
-          "ma5": 623.8,
-          "ma25": 659.4,
-          "ma75": 738.6933333333334
+          "close": 615.0,
+          "ma5": 621.2,
+          "ma25": 658.88,
+          "ma75": 738.52
         }
       ],
       "fundamentals": {
         "name": "エンビプロHD",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 7.510992,
+        "forward_per": 11.603773,
+        "pbr": 0.91891307,
+        "dividend_yield": 3.65,
+        "market_cap": 17531015168.0,
+        "eps": 81.88,
+        "roe": 0.13075,
+        "week52_high": 1253.0,
+        "week52_low": 501.0,
+        "avg_volume": 177001.0
       },
       "signals": []
     },
     {
       "code": "6770",
       "name": "アルプスアルパイン",
-      "price": 1824.5,
-      "change_pct": 1.1644025505960631,
+      "price": 1816.0,
+      "change_pct": 0.6930967563071805,
       "history": [
         {
           "date": "2026-05-11",
@@ -20478,32 +20484,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 1824.5,
-          "ma5": 1840.1,
-          "ma25": 2078.6,
-          "ma75": 2133.7960986328126
+          "close": 1816.0,
+          "ma5": 1838.4,
+          "ma25": 2078.26,
+          "ma75": 2133.6827652994793
         }
       ],
       "fundamentals": {
         "name": "アルプスアルパイン",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
+        "per": 21.420147,
+        "forward_per": 16.970377,
+        "pbr": 0.7964951,
+        "dividend_yield": 3.57,
+        "market_cap": 347877244928.0,
+        "eps": 84.78,
         "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "week52_high": 2395.5,
+        "week52_low": 1764.5,
+        "avg_volume": 1783293.0
       },
       "signals": []
     },
     {
       "code": "6785",
       "name": "鈴木",
-      "price": 2878.0,
-      "change_pct": 5.4212454212454215,
+      "price": 2825.0,
+      "change_pct": 3.47985347985348,
       "history": [
         {
           "date": "2026-05-11",
@@ -21368,32 +21374,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 2878.0,
-          "ma5": 2911.4,
-          "ma25": 3274.48,
-          "ma75": 3128.4
+          "close": 2825.0,
+          "ma5": 2900.8,
+          "ma25": 3272.36,
+          "ma75": 3127.693333333333
         }
       ],
       "fundamentals": {
         "name": "鈴木",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 10.818366,
+        "forward_per": 14.25328,
+        "pbr": 1.2721838,
+        "dividend_yield": 3.85,
+        "market_cap": 40564858880.0,
+        "eps": 261.13,
+        "roe": 0.13933,
+        "week52_high": 3625.0,
+        "week52_low": 2119.0,
+        "avg_volume": 89040.0
       },
       "signals": []
     },
     {
       "code": "6817",
       "name": "スミダ",
-      "price": 1031.0,
-      "change_pct": 2.485089463220676,
+      "price": 1014.0,
+      "change_pct": 0.7952286282306162,
       "history": [
         {
           "date": "2026-05-11",
@@ -22258,24 +22264,24 @@
         },
         {
           "date": "2026-11-09",
-          "close": 1031.0,
-          "ma5": 1065.4,
-          "ma25": 1178.24,
-          "ma75": 1215.7066666666667
+          "close": 1014.0,
+          "ma5": 1062.0,
+          "ma25": 1177.56,
+          "ma75": 1215.48
         }
       ],
       "fundamentals": {
         "name": "スミダ",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 15.062388,
+        "forward_per": 6.805369,
+        "pbr": 0.5441044,
+        "dividend_yield": 5.28,
+        "market_cap": 33563658240.0,
+        "eps": 67.32,
+        "roe": 0.03604,
+        "week52_high": 1626.0,
+        "week52_low": 988.0,
+        "avg_volume": 226505.0
       },
       "signals": []
     },
@@ -23156,24 +23162,24 @@
       ],
       "fundamentals": {
         "name": "共和電",
-        "per": null,
+        "per": 18.394472,
         "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "pbr": 0.9317406,
+        "dividend_yield": 3.09,
+        "market_cap": 17282863104.0,
+        "eps": 37.62,
+        "roe": 0.0538,
+        "week52_high": 1012.0,
+        "week52_low": 650.0,
+        "avg_volume": 24918.0
       },
       "signals": []
     },
     {
       "code": "6857",
       "name": "アドバンテス",
-      "price": 29305.0,
-      "change_pct": 3.918439716312057,
+      "price": 28375.0,
+      "change_pct": 0.6205673758865249,
       "history": [
         {
           "date": "2026-05-11",
@@ -24038,32 +24044,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 29305.0,
-          "ma5": 31429.0,
-          "ma25": 35625.0,
-          "ma75": 33656.96338541667
+          "close": 28375.0,
+          "ma5": 31243.0,
+          "ma25": 35587.8,
+          "ma75": 33644.563385416666
         }
       ],
       "fundamentals": {
         "name": "アドバンテス",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 36.01254,
+        "forward_per": 119.3581,
+        "pbr": 17.889082,
+        "dividend_yield": 0.35,
+        "market_cap": 20489705619456.0,
+        "eps": 787.92,
+        "roe": 0.65352,
+        "week52_high": 41990.0,
+        "week52_low": 18270.0,
+        "avg_volume": 12626872.0
       },
       "signals": []
     },
     {
       "code": "6963",
       "name": "ローム",
-      "price": 2910.5,
-      "change_pct": 6.145149525893508,
+      "price": 2831.5,
+      "change_pct": 3.264040846097739,
       "history": [
         {
           "date": "2026-05-11",
@@ -24928,32 +24934,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 2910.5,
-          "ma5": 3184.9,
-          "ma25": 4105.26,
-          "ma75": 4492.516529947917
+          "close": 2831.5,
+          "ma5": 3169.1,
+          "ma25": 4102.1,
+          "ma75": 4491.4631966145835
         }
       ],
       "fundamentals": {
         "name": "ローム",
         "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "forward_per": 32.58718,
+        "pbr": 1.4322945,
+        "dividend_yield": 1.81,
+        "market_cap": 1093130256384.0,
+        "eps": -398.84,
+        "roe": -0.18357,
+        "week52_high": 6099.0,
+        "week52_low": 1950.0,
+        "avg_volume": 4002266.0
       },
       "signals": []
     },
     {
       "code": "7203",
       "name": "トヨタ自",
-      "price": 3474.0,
-      "change_pct": 4.0119760479041915,
+      "price": 3491.0,
+      "change_pct": 4.520958083832335,
       "history": [
         {
           "date": "2026-05-11",
@@ -25818,32 +25824,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 3474.0,
-          "ma5": 3284.8,
-          "ma25": 3073.58,
-          "ma75": 3006.009007161458
+          "close": 3491.0,
+          "ma5": 3288.2,
+          "ma25": 3074.26,
+          "ma75": 3006.235673828125
         }
       ],
       "fundamentals": {
         "name": "トヨタ自",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 10.114443,
+        "forward_per": 10.76738,
+        "pbr": 1.0980273,
+        "dividend_yield": 3.0,
+        "market_cap": 41117861019648.0,
+        "eps": 345.15,
+        "roe": 0.115839995,
+        "week52_high": 4000.0,
+        "week52_low": 2686.0,
+        "avg_volume": 25673110.0
       },
       "signals": []
     },
     {
       "code": "7956",
       "name": "ピジョン",
-      "price": 2282.0,
-      "change_pct": 4.4632639047837035,
+      "price": 2281.0,
+      "change_pct": 4.417486839093614,
       "history": [
         {
           "date": "2026-05-11",
@@ -26708,32 +26714,32 @@
         },
         {
           "date": "2026-11-09",
-          "close": 2282.0,
-          "ma5": 2152.8,
-          "ma25": 2107.84,
-          "ma75": 2065.9533333333334
+          "close": 2281.0,
+          "ma5": 2152.6,
+          "ma25": 2107.8,
+          "ma75": 2065.94
         }
       ],
       "fundamentals": {
         "name": "ピジョン",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 26.37604,
+        "forward_per": 31.870895,
+        "pbr": 3.285863,
+        "dividend_yield": 3.47,
+        "market_cap": 272470818816.0,
+        "eps": 86.48,
+        "roe": 0.12809,
+        "week52_high": 2291.0,
+        "week52_low": 1567.0,
+        "avg_volume": 1000994.0
       },
       "signals": []
     },
     {
       "code": "8929",
       "name": "青山財産",
-      "price": 1232.0,
-      "change_pct": -0.08110300081103002,
+      "price": 1240.0,
+      "change_pct": 0.5677210056772101,
       "history": [
         {
           "date": "2026-05-11",
@@ -27598,24 +27604,24 @@
         },
         {
           "date": "2026-11-09",
-          "close": 1232.0,
-          "ma5": 1252.2,
-          "ma25": 1295.2,
-          "ma75": 1318.96
+          "close": 1240.0,
+          "ma5": 1253.8,
+          "ma25": 1295.52,
+          "ma75": 1319.0666666666666
         }
       ],
       "fundamentals": {
         "name": "青山財産",
-        "per": null,
-        "forward_per": null,
-        "pbr": null,
-        "dividend_yield": null,
-        "market_cap": null,
-        "eps": null,
-        "roe": null,
-        "week52_high": null,
-        "week52_low": null,
-        "avg_volume": null
+        "per": 11.294289,
+        "forward_per": 10.772305,
+        "pbr": 2.411579,
+        "dividend_yield": 5.69,
+        "market_cap": 29840896000.0,
+        "eps": 109.79,
+        "roe": 0.23008,
+        "week52_high": 2068.0,
+        "week52_low": 1185.0,
+        "avg_volume": 61271.0
       },
       "signals": []
     }
