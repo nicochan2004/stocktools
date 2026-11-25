@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-25T06:14:42.424992+00:00",
+  "generated_at": "2026-11-25T17:15:30.768701+00:00",
   "stocks": [
     {
       "code": "9107",
       "name": "川崎船",
-      "price": 3049.0,
-      "change_pct": -0.2943100065402224,
+      "price": 3050.0,
+      "change_pct": -0.2616088947024199,
       "history": [
         {
           "date": "2026-05-25",
@@ -877,24 +877,24 @@
         },
         {
           "date": "2026-11-25",
-          "close": 3049.0,
-          "ma5": 3045.2,
-          "ma25": 3220.34,
-          "ma75": 3229.039563802083
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "川崎船",
-        "per": 10.130915,
-        "forward_per": 8.725639,
-        "pbr": 1.0253179,
+        "per": 10.134237,
+        "forward_per": 8.728501,
+        "pbr": 1.0256542,
         "dividend_yield": 3.93,
-        "market_cap": 1792259391488.0,
+        "market_cap": 1792847249408.0,
         "eps": 300.96,
         "roe": 0.109680004,
         "week52_high": 3610.0,
         "week52_low": 2045.5,
-        "avg_volume": 3985280.0
+        "avg_volume": 3884386.0
       },
       "signals": [
         {
@@ -908,8 +908,8 @@
     {
       "code": "9432",
       "name": "NTT",
-      "price": 168.10000610351562,
-      "change_pct": 0.358212599113806,
+      "price": 168.0,
+      "change_pct": 0.2985074626865672,
       "history": [
         {
           "date": "2026-05-25",
@@ -1781,45 +1781,39 @@
         },
         {
           "date": "2026-11-25",
-          "close": 168.10000610351562,
-          "ma5": 168.21999816894532,
-          "ma25": 169.7719989013672,
-          "ma75": 168.21332600911458
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "NTT",
-        "per": 14.6428585,
-        "forward_per": 11.553265,
-        "pbr": 1.3726932,
+        "per": 14.634147,
+        "forward_per": 11.5463915,
+        "pbr": 1.3718766,
         "dividend_yield": 3.25,
-        "market_cap": 13571300786176.0,
+        "market_cap": 13563226750976.0,
         "eps": 11.48,
         "roe": 0.09751,
         "week52_high": 181.3,
         "week52_low": 142.6,
-        "avg_volume": 201879726.0
+        "avg_volume": 202151372.0
       },
       "signals": [
         {
-          "pair": "5x25",
-          "kind": "ゴールデンクロス",
-          "status": "接近",
-          "text": "5x25 ゴールデンクロス接近"
-        },
-        {
           "pair": "25x75",
           "kind": "デッドクロス",
-          "status": "接近",
-          "text": "25x75 デッドクロス接近"
+          "status": "発生",
+          "text": "25x75 デッドクロス発生（直近）"
         }
       ]
     },
     {
       "code": "9434",
       "name": "ソフトバンク",
-      "price": 238.39999389648438,
-      "change_pct": 0.08396177615638017,
+      "price": 237.9,
+      "change_pct": -0.12594330482185828,
       "history": [
         {
           "date": "2026-05-25",
@@ -2691,39 +2685,45 @@
         },
         {
           "date": "2026-11-25",
-          "close": 238.39999389648438,
-          "ma5": 242.75999755859374,
-          "ma25": 239.1519989013672,
-          "ma75": 237.1919024658203
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "ソフトバンク",
-        "per": 21.041483,
-        "forward_per": 20.569456,
-        "pbr": 3.6629586,
+        "per": 20.473322,
+        "forward_per": 20.526316,
+        "pbr": 3.6552763,
         "dividend_yield": 3.66,
-        "market_cap": 11423655657472.0,
-        "eps": 11.33,
+        "market_cap": 11399696744448.0,
+        "eps": 11.62,
         "roe": 0.14992,
         "week52_high": 252.9,
         "week52_low": 202.6,
-        "avg_volume": 79216256.0
+        "avg_volume": 79243540.0
       },
       "signals": [
         {
+          "pair": "5x25",
+          "kind": "デッドクロス",
+          "status": "発生",
+          "text": "5x25 デッドクロス発生（直近）"
+        },
+        {
           "pair": "25x75",
           "kind": "デッドクロス",
-          "status": "接近",
-          "text": "25x75 デッドクロス接近"
+          "status": "発生",
+          "text": "25x75 デッドクロス発生（直近）"
         }
       ]
     },
     {
       "code": "9984",
       "name": "ソフトバンクグループ",
-      "price": 2713.0,
-      "change_pct": -14.226999683844452,
+      "price": 2696.5,
+      "change_pct": -14.748656338918748,
       "history": [
         {
           "date": "2026-05-25",
@@ -3595,32 +3595,32 @@
         },
         {
           "date": "2026-11-25",
-          "close": 2713.0,
-          "ma5": 3164.8,
-          "ma25": 3902.52,
-          "ma75": 5140.602102864584
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "ソフトバンクグループ",
-        "per": 12.03638,
-        "forward_per": 9.187578,
-        "pbr": 0.94301325,
+        "per": 11.963177,
+        "forward_per": 9.1317005,
+        "pbr": 0.937278,
         "dividend_yield": 0.35,
-        "market_cap": 15462218858496.0,
+        "market_cap": 15368180465664.0,
         "eps": 225.4,
         "roe": 0.09764,
         "week52_high": 9074.0,
         "week52_low": 2652.0,
-        "avg_volume": 60360975.0
+        "avg_volume": 60901696.0
       },
       "signals": []
     },
     {
       "code": "5071",
       "name": "ヴィス",
-      "price": 1266.0,
-      "change_pct": 0.5559968228752978,
+      "price": 1268.0,
+      "change_pct": 0.7148530579825259,
       "history": [
         {
           "date": "2026-05-25",
@@ -4492,32 +4492,32 @@
         },
         {
           "date": "2026-11-25",
-          "close": 1266.0,
-          "ma5": 1279.2,
-          "ma25": 1336.96,
-          "ma75": 1373.0266666666666
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "ヴィス",
-        "per": 8.229329,
-        "forward_per": 18.811293,
-        "pbr": 1.3587539,
+        "per": 8.24233,
+        "forward_per": 18.84101,
+        "pbr": 1.3609005,
         "dividend_yield": 4.68,
-        "market_cap": 10696025088.0,
+        "market_cap": 10712922112.0,
         "eps": 153.84,
         "roe": 0.17528999,
         "week52_high": 1688.0,
         "week52_low": 1255.0,
-        "avg_volume": 31143.0
+        "avg_volume": 31642.0
       },
       "signals": []
     },
     {
       "code": "3611",
       "name": "マツオカ",
-      "price": 2052.0,
-      "change_pct": 0.0975609756097561,
+      "price": 2054.0,
+      "change_pct": 0.1951219512195122,
       "history": [
         {
           "date": "2026-05-25",
@@ -5389,24 +5389,24 @@
         },
         {
           "date": "2026-11-25",
-          "close": 2052.0,
-          "ma5": 2068.6,
-          "ma25": 2244.8,
-          "ma75": 2369.4266666666667
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "マツオカ",
-        "per": 7.4667053,
+        "per": 7.473983,
         "forward_per": null,
-        "pbr": 0.51564705,
-        "dividend_yield": 5.69,
-        "market_cap": 21542733824.0,
+        "pbr": 0.51614964,
+        "dividend_yield": 5.62,
+        "market_cap": 21563684864.0,
         "eps": 274.82,
         "roe": 0.08315,
         "week52_high": 2730.0,
         "week52_low": 2011.0,
-        "avg_volume": 28785.0
+        "avg_volume": 28862.0
       },
       "signals": []
     },
@@ -6286,10 +6286,10 @@
         },
         {
           "date": "2026-11-25",
-          "close": 10110.0,
-          "ma5": 9907.6,
-          "ma25": 9841.04,
-          "ma75": 9309.88
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
@@ -6303,22 +6303,28 @@
         "roe": 0.24233,
         "week52_high": 11230.0,
         "week52_low": 6280.0,
-        "avg_volume": 218998.0
+        "avg_volume": 220381.0
       },
       "signals": [
         {
           "pair": "5x25",
           "kind": "デッドクロス",
-          "status": "接近",
-          "text": "5x25 デッドクロス接近"
+          "status": "発生",
+          "text": "5x25 デッドクロス発生（直近）"
+        },
+        {
+          "pair": "25x75",
+          "kind": "デッドクロス",
+          "status": "発生",
+          "text": "25x75 デッドクロス発生（直近）"
         }
       ]
     },
     {
       "code": "4776",
       "name": "CYBOZU",
-      "price": 2827.0,
-      "change_pct": 1.7272400143936668,
+      "price": 2837.0,
+      "change_pct": 2.087081684059014,
       "history": [
         {
           "date": "2026-05-25",
@@ -7190,39 +7196,39 @@
         },
         {
           "date": "2026-11-25",
-          "close": 2827.0,
-          "ma5": 2860.6,
-          "ma25": 3039.32,
-          "ma75": 3017.653333333333
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "CYBOZU",
-        "per": 16.842419,
-        "forward_per": 45.304485,
-        "pbr": 6.7487726,
+        "per": 16.745367,
+        "forward_per": 45.46474,
+        "pbr": 6.772645,
         "dividend_yield": 1.8,
-        "market_cap": 127383142400.0,
-        "eps": 167.85,
+        "market_cap": 127833735168.0,
+        "eps": 169.42,
         "roe": 0.44367,
         "week52_high": 3410.0,
         "week52_low": 1948.0,
-        "avg_volume": 226661.0
+        "avg_volume": 227205.0
       },
       "signals": [
         {
           "pair": "25x75",
           "kind": "デッドクロス",
-          "status": "接近",
-          "text": "25x75 デッドクロス接近"
+          "status": "発生",
+          "text": "25x75 デッドクロス発生（直近）"
         }
       ]
     },
     {
       "code": "4980",
       "name": "デクセリアルズ",
-      "price": 1822.5,
-      "change_pct": -6.153450051493306,
+      "price": 1837.0,
+      "change_pct": -5.406797116374872,
       "history": [
         {
           "date": "2026-05-25",
@@ -8094,32 +8100,32 @@
         },
         {
           "date": "2026-11-25",
-          "close": 1822.5,
-          "ma5": 1913.4,
-          "ma25": 2517.36,
-          "ma75": 2906.9411067708334
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "デクセリアルズ",
-        "per": 11.658776,
-        "forward_per": 11.912543,
-        "pbr": 2.584538,
+        "per": 11.751534,
+        "forward_per": 12.00732,
+        "pbr": 2.6051009,
         "dividend_yield": 3.3,
-        "market_cap": 305673273344.0,
+        "market_cap": 308105248768.0,
         "eps": 156.32,
         "roe": 0.24595,
         "week52_high": 5228.0,
         "week52_low": 1794.5,
-        "avg_volume": 2103946.0
+        "avg_volume": 2104220.0
       },
       "signals": []
     },
     {
       "code": "6149",
       "name": "小田原エン",
-      "price": 1963.0,
-      "change_pct": -0.30472320975114275,
+      "price": 1970.0,
+      "change_pct": 0.050787201625190445,
       "history": [
         {
           "date": "2026-05-25",
@@ -8991,39 +8997,32 @@
         },
         {
           "date": "2026-11-25",
-          "close": 1963.0,
-          "ma5": 1996.2,
-          "ma25": 2024.0,
-          "ma75": 2139.96
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "小田原エン",
-        "per": 5.371754,
-        "forward_per": 10.6165495,
-        "pbr": 0.5780381,
+        "per": 5.3909097,
+        "forward_per": 10.654408,
+        "pbr": 0.58009934,
         "dividend_yield": 3.53,
-        "market_cap": 11257372672.0,
+        "market_cap": 11297516544.0,
         "eps": 365.43,
         "roe": 0.11302,
         "week52_high": 2432.0,
         "week52_low": 1835.0,
-        "avg_volume": 13786.0
+        "avg_volume": 13664.0
       },
-      "signals": [
-        {
-          "pair": "5x25",
-          "kind": "ゴールデンクロス",
-          "status": "接近",
-          "text": "5x25 ゴールデンクロス接近"
-        }
-      ]
+      "signals": []
     },
     {
       "code": "6965",
       "name": "浜松ホトニク",
-      "price": 1819.5,
-      "change_pct": -7.756653992395438,
+      "price": 1823.5,
+      "change_pct": -7.553865652724968,
       "history": [
         {
           "date": "2026-05-25",
@@ -9895,32 +9894,32 @@
         },
         {
           "date": "2026-11-25",
-          "close": 1819.5,
-          "ma5": 1947.6,
-          "ma25": 2072.8,
-          "ma75": 2247.641005859375
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "浜松ホトニク",
-        "per": 27.03566,
-        "forward_per": 21.573395,
-        "pbr": 1.6274757,
+        "per": 27.095095,
+        "forward_per": 21.620821,
+        "pbr": 1.6310536,
         "dividend_yield": 2.03,
-        "market_cap": 524379258880.0,
+        "market_cap": 525532069888.0,
         "eps": 67.3,
         "roe": 0.061890002,
         "week52_high": 3100.0,
-        "week52_low": 1517.0,
-        "avg_volume": 2419926.0
+        "week52_low": 1529.5,
+        "avg_volume": 2436894.0
       },
       "signals": []
     },
     {
       "code": "8136",
       "name": "サンリオ",
-      "price": 1040.5,
-      "change_pct": 2.5123152709359604,
+      "price": 1037.0,
+      "change_pct": 2.167487684729064,
       "history": [
         {
           "date": "2026-05-25",
@@ -10792,32 +10791,32 @@
         },
         {
           "date": "2026-11-25",
-          "close": 1040.5,
-          "ma5": 1036.0,
-          "ma25": 1185.76,
-          "ma75": 1216.78236328125
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "サンリオ",
-        "per": 22.698517,
-        "forward_per": 7.932454,
-        "pbr": 7.067894,
-        "dividend_yield": 1.59,
-        "market_cap": 1262605565952.0,
+        "per": 22.622164,
+        "forward_per": 7.9057713,
+        "pbr": 7.0441194,
+        "dividend_yield": 1.57,
+        "market_cap": 1258358571008.0,
         "eps": 45.84,
         "roe": 0.3493,
         "week52_high": 1470.0,
         "week52_low": 818.8,
-        "avg_volume": 15091798.0
+        "avg_volume": 15109171.0
       },
       "signals": []
     },
     {
       "code": "2154",
       "name": "オープンアップG",
-      "price": 2034.0,
-      "change_pct": 2.3138832997987926,
+      "price": 2032.0,
+      "change_pct": 2.2132796780684103,
       "history": [
         {
           "date": "2026-05-25",
@@ -11689,32 +11688,39 @@
         },
         {
           "date": "2026-11-25",
-          "close": 2034.0,
-          "ma5": 2009.6,
-          "ma25": 2017.8,
-          "ma75": 2010.8933333333334
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "オープンアップG",
-        "per": 15.008854,
-        "forward_per": 13.286303,
-        "pbr": 2.2039773,
-        "dividend_yield": 5.03,
-        "market_cap": 172808994816.0,
+        "per": 14.994097,
+        "forward_per": 13.273238,
+        "pbr": 2.2018101,
+        "dividend_yield": 5.02,
+        "market_cap": 172639076352.0,
         "eps": 135.52,
         "roe": 0.15155,
         "week52_high": 2106.0,
         "week52_low": 1706.0,
-        "avg_volume": 158736.0
+        "avg_volume": 160028.0
       },
-      "signals": []
+      "signals": [
+        {
+          "pair": "25x75",
+          "kind": "デッドクロス",
+          "status": "発生",
+          "text": "25x75 デッドクロス発生（直近）"
+        }
+      ]
     },
     {
       "code": "2317",
       "name": "システナ",
-      "price": 451.0,
-      "change_pct": 3.4403669724770642,
+      "price": 450.0,
+      "change_pct": 3.211009174311927,
       "history": [
         {
           "date": "2026-05-25",
@@ -12586,39 +12592,39 @@
         },
         {
           "date": "2026-11-25",
-          "close": 451.0,
-          "ma5": 444.0,
-          "ma25": 447.84,
-          "ma75": 435.43098592122396
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "システナ",
-        "per": 14.657133,
-        "forward_per": 17.896826,
-        "pbr": 3.789311,
+        "per": 14.423077,
+        "forward_per": 17.857141,
+        "pbr": 3.780909,
         "dividend_yield": 4.15,
-        "market_cap": 161212563456.0,
-        "eps": 30.77,
+        "market_cap": 160855113728.0,
+        "eps": 31.2,
         "roe": 0.28171,
         "week52_high": 547.0,
         "week52_low": 385.0,
-        "avg_volume": 1258573.0
+        "avg_volume": 1269681.0
       },
       "signals": [
         {
-          "pair": "5x25",
-          "kind": "ゴールデンクロス",
-          "status": "接近",
-          "text": "5x25 ゴールデンクロス接近"
+          "pair": "25x75",
+          "kind": "デッドクロス",
+          "status": "発生",
+          "text": "25x75 デッドクロス発生（直近）"
         }
       ]
     },
     {
       "code": "3452",
       "name": "ビーロット",
-      "price": 1301.0,
-      "change_pct": 0.774593338497289,
+      "price": 1303.0,
+      "change_pct": 0.9295120061967467,
       "history": [
         {
           "date": "2026-05-25",
@@ -13490,32 +13496,32 @@
         },
         {
           "date": "2026-11-25",
-          "close": 1301.0,
-          "ma5": 1310.2,
-          "ma25": 1357.28,
-          "ma75": 1420.0133333333333
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "ビーロット",
-        "per": 5.0026917,
+        "per": 5.010382,
         "forward_per": null,
-        "pbr": 1.0457401,
+        "pbr": 1.0473477,
         "dividend_yield": 6.2,
-        "market_cap": 24505294848.0,
+        "market_cap": 24542965760.0,
         "eps": 260.06,
         "roe": 0.22599001,
         "week52_high": 1670.0,
         "week52_low": 1285.0,
-        "avg_volume": 65353.0
+        "avg_volume": 66015.0
       },
       "signals": []
     },
     {
       "code": "3989",
       "name": "シェアリングT",
-      "price": 1539.0,
-      "change_pct": 0.26058631921824105,
+      "price": 1540.0,
+      "change_pct": 0.32573289902280134,
       "history": [
         {
           "date": "2026-05-25",
@@ -14387,39 +14393,39 @@
         },
         {
           "date": "2026-11-25",
-          "close": 1539.0,
-          "ma5": 1535.2,
-          "ma25": 1538.36,
-          "ma75": 1527.9066666666668
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "シェアリングT",
-        "per": 14.476531,
-        "forward_per": 25.480131,
-        "pbr": 6.0052443,
+        "per": 14.7863655,
+        "forward_per": 25.496689,
+        "pbr": 6.009146,
         "dividend_yield": 1.79,
-        "market_cap": 36830220288.0,
-        "eps": 106.31,
+        "market_cap": 36854153216.0,
+        "eps": 104.15,
         "roe": 0.44546002,
         "week52_high": 1627.0,
         "week52_low": 946.0,
-        "avg_volume": 337390.0
+        "avg_volume": 339393.0
       },
       "signals": [
         {
           "pair": "25x75",
           "kind": "デッドクロス",
-          "status": "接近",
-          "text": "25x75 デッドクロス接近"
+          "status": "発生",
+          "text": "25x75 デッドクロス発生（直近）"
         }
       ]
     },
     {
       "code": "4042",
       "name": "東ソー",
-      "price": 2391.5,
-      "change_pct": -0.18781302170283806,
+      "price": 2386.0,
+      "change_pct": -0.41736227045075125,
       "history": [
         {
           "date": "2026-05-25",
@@ -15291,32 +15297,32 @@
         },
         {
           "date": "2026-11-25",
-          "close": 2391.5,
-          "ma5": 2424.7,
-          "ma25": 2496.52,
-          "ma75": 2570.6886686197918
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "東ソー",
-        "per": 12.195308,
-        "forward_per": 10.830088,
-        "pbr": 0.8626163,
+        "per": 12.167261,
+        "forward_per": 10.805181,
+        "pbr": 0.8606324,
         "dividend_yield": 4.15,
-        "market_cap": 736562184192.0,
+        "market_cap": 734868209664.0,
         "eps": 196.1,
         "roe": 0.083459996,
         "week52_high": 3086.0,
         "week52_low": 2216.5,
-        "avg_volume": 1284946.0
+        "avg_volume": 1289271.0
       },
       "signals": []
     },
     {
       "code": "4063",
       "name": "信越化",
-      "price": 5484.0,
-      "change_pct": 0.36603221083455345,
+      "price": 5492.0,
+      "change_pct": 0.5124450951683748,
       "history": [
         {
           "date": "2026-05-25",
@@ -16188,32 +16194,32 @@
         },
         {
           "date": "2026-11-25",
-          "close": 5484.0,
-          "ma5": 5448.8,
-          "ma25": 5698.48,
-          "ma75": 5895.327102864583
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "信越化",
-        "per": 20.207827,
-        "forward_per": 16.631788,
-        "pbr": 2.2066271,
+        "per": 20.237305,
+        "forward_per": 16.656052,
+        "pbr": 2.209846,
         "dividend_yield": 2.12,
-        "market_cap": 9957588074496.0,
+        "market_cap": 9972113997824.0,
         "eps": 271.38,
         "roe": 0.11748999,
         "week52_high": 7930.0,
-        "week52_low": 4472.0,
-        "avg_volume": 6423943.0
+        "week52_low": 4530.0,
+        "avg_volume": 6437050.0
       },
       "signals": []
     },
     {
       "code": "4684",
       "name": "オービック",
-      "price": 6430.0,
-      "change_pct": 3.127506014434643,
+      "price": 6404.0,
+      "change_pct": 2.710505212510024,
       "history": [
         {
           "date": "2026-05-25",
@@ -17085,39 +17091,45 @@
         },
         {
           "date": "2026-11-25",
-          "close": 6430.0,
-          "ma5": 6226.4,
-          "ma25": 6104.04,
-          "ma75": 5309.769596354166
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "オービック",
-        "per": 33.999577,
-        "forward_per": 40.182476,
-        "pbr": 5.3048472,
+        "per": 33.8621,
+        "forward_per": 40.019997,
+        "pbr": 5.2833967,
         "dividend_yield": 1.7,
-        "market_cap": 2748101951488.0,
+        "market_cap": 2736989929472.0,
         "eps": 189.12,
         "roe": 0.16341999,
-        "week52_high": 6452.0,
+        "week52_high": 6461.0,
         "week52_low": 3643.0,
-        "avg_volume": 1983698.0
+        "avg_volume": 1994015.0
       },
       "signals": [
         {
           "pair": "5x25",
           "kind": "デッドクロス",
-          "status": "接近",
-          "text": "5x25 デッドクロス接近"
+          "status": "発生",
+          "text": "5x25 デッドクロス発生（直近）"
+        },
+        {
+          "pair": "25x75",
+          "kind": "デッドクロス",
+          "status": "発生",
+          "text": "25x75 デッドクロス発生（直近）"
         }
       ]
     },
     {
       "code": "4755",
       "name": "楽天グループ",
-      "price": 535.2999877929688,
-      "change_pct": -3.479983527330347,
+      "price": 534.1,
+      "change_pct": -3.6963534959191366,
       "history": [
         {
           "date": "2026-05-25",
@@ -17989,24 +18001,24 @@
         },
         {
           "date": "2026-11-25",
-          "close": 535.2999877929688,
-          "ma5": 573.6800048828125,
-          "ma25": 622.7560009765625,
-          "ma75": 694.222666015625
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "楽天グループ",
         "per": null,
-        "forward_per": -70.34165,
-        "pbr": 1.5363861,
+        "forward_per": -70.18397,
+        "pbr": 1.5329419,
         "dividend_yield": 0.0,
-        "market_cap": 1168016801792.0,
+        "market_cap": 1165398376448.0,
         "eps": -46.09,
         "roe": -0.02728,
         "week52_high": 1058.5,
         "week52_low": 525.9,
-        "avg_volume": 20666413.0
+        "avg_volume": 20827076.0
       },
       "signals": []
     },
@@ -18886,10 +18898,10 @@
         },
         {
           "date": "2026-11-25",
-          "close": 1465.0,
-          "ma5": 1540.6,
-          "ma25": 1527.9466845703125,
-          "ma75": 1586.6102213541667
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
@@ -18903,16 +18915,9 @@
         "roe": 0.0352,
         "week52_high": 1835.0,
         "week52_low": 1019.0,
-        "avg_volume": 95228.0
+        "avg_volume": 96140.0
       },
-      "signals": [
-        {
-          "pair": "5x25",
-          "kind": "ゴールデンクロス",
-          "status": "発生",
-          "text": "5x25 ゴールデンクロス発生（直近）"
-        }
-      ]
+      "signals": []
     },
     {
       "code": "5698",
@@ -19790,10 +19795,10 @@
         },
         {
           "date": "2026-11-25",
-          "close": 580.0,
-          "ma5": 591.8,
-          "ma25": 628.68,
-          "ma75": 714.6533333333333
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
@@ -19806,16 +19811,16 @@
         "eps": 95.25,
         "roe": 0.15384,
         "week52_high": 1253.0,
-        "week52_low": 531.0,
-        "avg_volume": 131185.0
+        "week52_low": 533.0,
+        "avg_volume": 130986.0
       },
       "signals": []
     },
     {
       "code": "6770",
       "name": "アルプスアルパイン",
-      "price": 1918.0,
-      "change_pct": -1.057518700025793,
+      "price": 1929.5,
+      "change_pct": -0.4642765024503482,
       "history": [
         {
           "date": "2026-05-25",
@@ -20687,39 +20692,32 @@
         },
         {
           "date": "2026-11-25",
-          "close": 1917.5,
-          "ma5": 1931.5,
-          "ma25": 1968.16,
-          "ma75": 2104.934129231771
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "アルプスアルパイン",
-        "per": 22.62326,
-        "forward_per": 17.923557,
-        "pbr": 0.84123033,
+        "per": 22.758905,
+        "forward_per": 18.031025,
+        "pbr": 0.8462742,
         "dividend_yield": 3.29,
-        "market_cap": 363055448064.0,
+        "market_cap": 365232291840.0,
         "eps": 84.78,
         "roe": 0.03918,
         "week52_high": 2395.5,
         "week52_low": 1764.5,
-        "avg_volume": 2008368.0
+        "avg_volume": 2020991.0
       },
-      "signals": [
-        {
-          "pair": "5x25",
-          "kind": "ゴールデンクロス",
-          "status": "接近",
-          "text": "5x25 ゴールデンクロス接近"
-        }
-      ]
+      "signals": []
     },
     {
       "code": "6785",
       "name": "鈴木",
-      "price": 2731.0,
-      "change_pct": -4.776847977684798,
+      "price": 2740.0,
+      "change_pct": -4.463040446304045,
       "history": [
         {
           "date": "2026-05-25",
@@ -21591,32 +21589,32 @@
         },
         {
           "date": "2026-11-25",
-          "close": 2731.0,
-          "ma5": 2808.2,
-          "ma25": 3009.64,
-          "ma75": 3115.133333333333
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "鈴木",
-        "per": 9.782569,
-        "forward_per": 13.779012,
-        "pbr": 1.1009598,
-        "dividend_yield": 3.82,
-        "market_cap": 39215091712.0,
+        "per": 9.814808,
+        "forward_per": 13.82442,
+        "pbr": 1.1045879,
+        "dividend_yield": 3.67,
+        "market_cap": 39344324608.0,
         "eps": 279.17,
         "roe": 0.1387,
         "week52_high": 3625.0,
         "week52_low": 2260.0,
-        "avg_volume": 90988.0
+        "avg_volume": 91330.0
       },
       "signals": []
     },
     {
       "code": "6817",
       "name": "スミダ",
-      "price": 976.0,
-      "change_pct": -1.513622603430878,
+      "price": 979.0,
+      "change_pct": -1.2108980827447022,
       "history": [
         {
           "date": "2026-05-25",
@@ -22488,24 +22486,24 @@
         },
         {
           "date": "2026-11-25",
-          "close": 976.0,
-          "ma5": 1014.6,
-          "ma25": 1081.8,
-          "ma75": 1177.9866666666667
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "スミダ",
-        "per": 14.49792,
-        "forward_per": 6.5503354,
-        "pbr": 0.5237352,
+        "per": 14.542483,
+        "forward_per": 6.57047,
+        "pbr": 0.5253451,
         "dividend_yield": 5.36,
-        "market_cap": 32309751808.0,
+        "market_cap": 32409065472.0,
         "eps": 67.32,
         "roe": 0.03604,
         "week52_high": 1626.0,
         "week52_low": 957.0,
-        "avg_volume": 240970.0
+        "avg_volume": 243055.0
       },
       "signals": []
     },
@@ -23385,10 +23383,10 @@
         },
         {
           "date": "2026-11-25",
-          "close": 610.0,
-          "ma5": 622.4,
-          "ma25": 704.04,
-          "ma75": 749.92
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
@@ -23402,7 +23400,7 @@
         "roe": 0.03918,
         "week52_high": 1012.0,
         "week52_low": 600.0,
-        "avg_volume": 27650.0
+        "avg_volume": 27874.0
       },
       "signals": []
     },
@@ -24282,10 +24280,10 @@
         },
         {
           "date": "2026-11-25",
-          "close": 23745.0,
-          "ma5": 25903.0,
-          "ma25": 30617.6,
-          "ma75": 33477.84489583333
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
@@ -24299,15 +24297,15 @@
         "roe": 0.65352,
         "week52_high": 41990.0,
         "week52_low": 18460.0,
-        "avg_volume": 15652333.0
+        "avg_volume": 15766750.0
       },
       "signals": []
     },
     {
       "code": "6963",
       "name": "ローム",
-      "price": 2610.5,
-      "change_pct": -7.837599293909974,
+      "price": 2616.0,
+      "change_pct": -7.6434245366284195,
       "history": [
         {
           "date": "2026-05-25",
@@ -25179,32 +25177,32 @@
         },
         {
           "date": "2026-11-25",
-          "close": 2610.5,
-          "ma5": 2743.9,
-          "ma25": 3240.4,
-          "ma75": 4260.263736979166
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "ローム",
         "per": null,
-        "forward_per": 30.043734,
-        "pbr": 1.3205031,
-        "dividend_yield": 1.91,
-        "market_cap": 1007828598784.0,
+        "forward_per": 30.107033,
+        "pbr": 1.3232853,
+        "dividend_yield": 1.77,
+        "market_cap": 1009951965184.0,
         "eps": -398.84,
         "roe": -0.18357,
         "week52_high": 6099.0,
-        "week52_low": 1990.5,
-        "avg_volume": 4427076.0
+        "week52_low": 2023.0,
+        "avg_volume": 4465035.0
       },
       "signals": []
     },
     {
       "code": "7203",
       "name": "トヨタ自",
-      "price": 3416.0,
-      "change_pct": 2.5517862503752626,
+      "price": 3406.0,
+      "change_pct": 2.2515761032722907,
       "history": [
         {
           "date": "2026-05-25",
@@ -26076,32 +26074,45 @@
         },
         {
           "date": "2026-11-25",
-          "close": 3416.0,
-          "ma5": 3361.6,
-          "ma25": 3262.72,
-          "ma75": 3071.4785774739585
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "トヨタ自",
-        "per": 9.897146,
-        "forward_per": 10.536056,
-        "pbr": 1.0744375,
+        "per": 9.868174,
+        "forward_per": 10.505213,
+        "pbr": 1.0712923,
         "dividend_yield": 3.02,
-        "market_cap": 40090340425728.0,
+        "market_cap": 39972979605504.0,
         "eps": 345.15,
         "roe": 0.115839995,
         "week52_high": 4000.0,
         "week52_low": 2686.0,
-        "avg_volume": 25553356.0
+        "avg_volume": 25671161.0
       },
-      "signals": []
+      "signals": [
+        {
+          "pair": "5x25",
+          "kind": "デッドクロス",
+          "status": "発生",
+          "text": "5x25 デッドクロス発生（直近）"
+        },
+        {
+          "pair": "25x75",
+          "kind": "デッドクロス",
+          "status": "発生",
+          "text": "25x75 デッドクロス発生（直近）"
+        }
+      ]
     },
     {
       "code": "7956",
       "name": "ピジョン",
-      "price": 2408.5,
-      "change_pct": 2.5766609880749574,
+      "price": 2405.5,
+      "change_pct": 2.4488926746166952,
       "history": [
         {
           "date": "2026-05-25",
@@ -26973,32 +26984,45 @@
         },
         {
           "date": "2026-11-25",
-          "close": 2408.5,
-          "ma5": 2360.4,
-          "ma25": 2216.62,
-          "ma75": 2115.5333333333333
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "ピジョン",
-        "per": 27.37865,
-        "forward_per": 33.652367,
-        "pbr": 3.4696612,
+        "per": 27.81568,
+        "forward_per": 33.61045,
+        "pbr": 3.4653394,
         "dividend_yield": 3.22,
-        "market_cap": 287700975616.0,
-        "eps": 87.97,
+        "market_cap": 287342624768.0,
+        "eps": 86.48,
         "roe": 0.12810001,
         "week52_high": 2435.0,
         "week52_low": 1567.0,
-        "avg_volume": 984086.0
+        "avg_volume": 987194.0
       },
-      "signals": []
+      "signals": [
+        {
+          "pair": "5x25",
+          "kind": "デッドクロス",
+          "status": "発生",
+          "text": "5x25 デッドクロス発生（直近）"
+        },
+        {
+          "pair": "25x75",
+          "kind": "デッドクロス",
+          "status": "発生",
+          "text": "25x75 デッドクロス発生（直近）"
+        }
+      ]
     },
     {
       "code": "8929",
       "name": "青山財産",
-      "price": 1169.0,
-      "change_pct": 1.5638575152041705,
+      "price": 1163.0,
+      "change_pct": 1.0425716768027802,
       "history": [
         {
           "date": "2026-05-25",
@@ -27870,24 +27894,24 @@
         },
         {
           "date": "2026-11-25",
-          "close": 1169.0,
-          "ma5": 1156.0,
-          "ma25": 1241.08,
-          "ma75": 1306.32
+          "close": null,
+          "ma5": null,
+          "ma25": null,
+          "ma75": null
         }
       ],
       "fundamentals": {
         "name": "青山財産",
-        "per": 10.6476,
-        "forward_per": 10.155503,
-        "pbr": 2.3005335,
-        "dividend_yield": 6.23,
-        "market_cap": 28132263936.0,
+        "per": 10.59295,
+        "forward_per": 10.103379,
+        "pbr": 2.2887259,
+        "dividend_yield": 6.08,
+        "market_cap": 27987871744.0,
         "eps": 109.79,
         "roe": 0.14829999,
-        "week52_high": 1969.0,
+        "week52_high": 1926.0,
         "week52_low": 1118.0,
-        "avg_volume": 68091.0
+        "avg_volume": 67466.0
       },
       "signals": []
     }
